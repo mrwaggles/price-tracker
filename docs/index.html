@@ -4,92 +4,73 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
+<meta name="color-scheme" content="only light">
 <title>Price Tracker</title>
 <style>
-  :root { --ink:#1c1e21; --muted:#6b7280; --line:#e5e7eb; --good:#0a7d3b; --bad:#b42318; --bg:#fafaf9; }
+  :root { color-scheme: only light; --ink:#1c1e21; --muted:#6b7280; --line:#e5e7eb; --good:#0a7d3b; --bad:#b42318; --bg:#fafaf9; }
+  html { background:#fafaf9; }
   * { box-sizing:border-box; }
-  body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:var(--bg); color:var(--ink); }
+  body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; background:#fafaf9; background:var(--bg); color:#1c1e21; color:var(--ink); }
   .wrap { max-width:860px; margin:0 auto; padding:40px 20px 80px; }
   header h1 { font-size:26px; margin:0 0 4px; letter-spacing:-0.01em; }
-  header p { margin:0 0 28px; color:var(--muted); font-size:14px; }
-  .card { background:#fff; border:1px solid var(--line); border-radius:14px; padding:22px 24px; margin-bottom:20px; }
+  header p { margin:0 0 28px; color:#6b7280; color:var(--muted); font-size:14px; }
+  .card { background:#ffffff; border:1px solid var(--line); border-radius:14px; padding:22px 24px; margin-bottom:20px; }
   .card h2 { font-size:17px; margin:0 0 2px; }
-  .specs { color:var(--muted); font-size:13px; margin:0 0 14px; }
+  .specs { color:#6b7280; color:var(--muted); font-size:13px; margin:0 0 14px; }
   .row { display:flex; align-items:baseline; gap:18px; flex-wrap:wrap; }
   .price { font-size:30px; font-weight:650; letter-spacing:-0.02em; }
-  .meta { font-size:13px; color:var(--muted); }
+  .meta { font-size:13px; color:#6b7280; color:var(--muted); }
   .badge { display:inline-block; font-size:12px; font-weight:600; padding:3px 10px; border-radius:999px; }
-  .badge.down { color:var(--good); background:#e8f6ee; }
-  .badge.up { color:var(--bad); background:#fdecea; }
-  .badge.flat { color:var(--muted); background:#f3f4f6; }
+  .badge.down { color:#0a7d3b; background:#e8f6ee; }
+  .badge.up { color:#b42318; background:#fdecea; }
+  .badge.flat { color:#6b7280; background:#f3f4f6; }
   a.buy { font-size:13px; font-weight:600; color:#0b5fff; text-decoration:none; }
   a.buy:hover { text-decoration:underline; }
   .chart { margin:16px 0 6px; }
   table { width:100%; border-collapse:collapse; font-size:13px; margin-top:10px; }
   th, td { text-align:left; padding:6px 8px; border-bottom:1px solid var(--line); }
-  th { color:var(--muted); font-weight:600; font-size:12px; text-transform:uppercase; letter-spacing:.04em; }
+  th { color:#6b7280; color:var(--muted); font-weight:600; font-size:12px; text-transform:uppercase; letter-spacing:.04em; }
   td.num, th.num { text-align:right; }
-  footer { color:var(--muted); font-size:12px; margin-top:28px; }
+  footer { color:#6b7280; color:var(--muted); font-size:12px; margin-top:28px; }
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
     <h1>Price Tracker</h1>
-    <p id="updated">Loading&hellip;</p>
+    <p>Updated 2026-09-19 &middot; 2 items tracked</p>
   </header>
-  <main id="items"></main>
+  <main>
+<section class="card">
+  <h2>Wild Huckleberry Syrup</h2>
+  <p class="specs">Rockin Rudy&#x27;s &middot; 10 oz glass skinny bottle, wild huckleberry (Huckleberry People)</p>
+  <div class="row">
+    <span class="price">$8.99</span>
+    <span class="badge flat">at start price</span>
+    <span class="meta">started $8.99 on 2026-09-19 &middot; +$6.00 flat shipping ($14.99 delivered)</span>
+    <a class="buy" href="https://rockinrudys.com/products/10-oz-huck-syrup-skinny-bottle">View product &rarr;</a>
+  </div>
+  <div class="meta" style="margin-top:4px">in stock</div>
+  <svg class="chart" width="340" height="64" viewBox="0 0 340 64" role="img" aria-label="price history"><path d="M170.0,58.0" fill="none" stroke="#0b5fff" stroke-width="2"/><circle cx="170.0" cy="58.0" r="2.6" fill="#0b5fff"/></svg><div class="meta">1 check &middot; low $8.99 &middot; high $8.99</div>
+  <table><thead><tr><th>Date</th><th class="num">Price</th><th>Status</th></tr></thead>
+  <tbody><tr><td>2026-09-19</td><td class="num">$8.99</td><td>in stock</td></tr></tbody></table>
+</section>
+<section class="card">
+  <h2>280-Thread-Count Pima Cotton Percale Pillowcases</h2>
+  <p class="specs">L.L.Bean &middot; Set of two, White (item 233286, sku 0BVU880000)</p>
+  <div class="row">
+    <span class="price">$39.95</span>
+    <span class="badge flat">at start price</span>
+    <span class="meta">started $39.95 on 2026-09-17</span>
+    <a class="buy" href="https://www.llbean.com/llb/shop/1156?itemId=233286&amp;attrValue_0=White&amp;sku=0BVU880000&amp;originalProduct=64158">View product &rarr;</a>
+  </div>
+  <div class="meta" style="margin-top:4px">in stock</div>
+  <svg class="chart" width="340" height="64" viewBox="0 0 340 64" role="img" aria-label="price history"><path d="M6.0,58.0 L170.0,58.0 L334.0,58.0" fill="none" stroke="#0b5fff" stroke-width="2"/><circle cx="6.0" cy="58.0" r="2.6" fill="#0b5fff"/><circle cx="170.0" cy="58.0" r="2.6" fill="#0b5fff"/><circle cx="334.0" cy="58.0" r="2.6" fill="#0b5fff"/></svg><div class="meta">3 checks &middot; low $39.95 &middot; high $39.95</div>
+  <table><thead><tr><th>Date</th><th class="num">Price</th><th>Status</th></tr></thead>
+  <tbody><tr><td>2026-09-19</td><td class="num">$39.95</td><td>in stock</td></tr><tr><td>2026-09-18</td><td class="num">$39.95</td><td>in stock</td></tr><tr><td>2026-09-17</td><td class="num">$39.95</td><td>in stock</td></tr></tbody></table>
+</section>
+  </main>
   <footer>Prices checked once daily. View only.</footer>
 </div>
-<script>
-const fmt = (c, v) => new Intl.NumberFormat('en-US', {style:'currency', currency:c||'USD'}).format(v);
-function spark(hist, currency) {
-  const pts = hist.map(h => h.price);
-  const w = 340, hgt = 64, pad = 6;
-  const min = Math.min(...pts), max = Math.max(...pts);
-  const span = (max - min) || 1;
-  const n = pts.length;
-  const x = i => n === 1 ? w/2 : pad + i * (w - 2*pad) / (n - 1);
-  const y = v => hgt - pad - (v - min) * (hgt - 2*pad) / span;
-  const line = pts.map((p,i) => (i?'L':'M') + x(i).toFixed(1) + ',' + y(p).toFixed(1)).join(' ');
-  const dots = pts.map((p,i) => `<circle cx="${x(i).toFixed(1)}" cy="${y(p).toFixed(1)}" r="2.6" fill="#0b5fff"/>`).join('');
-  const labMin = fmt(currency, min), labMax = fmt(currency, max);
-  return `<svg class="chart" width="${w}" height="${hgt}" viewBox="0 0 ${w} ${hgt}" role="img" aria-label="price history">
-    <path d="${line}" fill="none" stroke="#0b5fff" stroke-width="2"/>${dots}</svg>
-    <div class="meta">${n} check${n===1?'':'s'} &middot; low ${labMin} &middot; high ${labMax}</div>`;
-}
-fetch('items.json?ts=' + Date.now()).then(r => r.json()).then(data => {
-  document.getElementById('updated').textContent =
-    'Updated ' + data.updated_at + ' \u00b7 ' + data.items.length + ' item' + (data.items.length===1?'':'s') + ' tracked';
-  const main = document.getElementById('items');
-  for (const it of data.items) {
-    const delta = it.current - it.baseline;
-    const pct = it.baseline ? (delta / it.baseline * 100) : 0;
-    let badge;
-    if (delta < -0.004) badge = `<span class="badge down">\u25bc ${fmt(it.currency, Math.abs(delta))} (${Math.abs(pct).toFixed(1)}%) vs start</span>`;
-    else if (delta > 0.004) badge = `<span class="badge up">\u25b2 ${fmt(it.currency, delta)} (${pct.toFixed(1)}%) vs start</span>`;
-    else badge = `<span class="badge flat">at start price</span>`;
-    const histRows = [...it.history].reverse().map(h =>
-      `<tr><td>${h.date}</td><td class="num">${fmt(it.currency, h.price)}</td><td>${h.status||''}</td></tr>`).join('');
-    main.insertAdjacentHTML('beforeend', `
-      <section class="card">
-        <h2>${it.name}</h2>
-        <p class="specs">${it.merchant} &middot; ${it.specs}</p>
-        <div class="row">
-          <span class="price">${fmt(it.currency, it.current)}</span>
-          ${badge}
-          <span class="meta">started ${fmt(it.currency, it.baseline)} on ${it.baseline_date}${it.baseline_note ? ' &middot; ' + it.baseline_note : ''}</span>
-          <a class="buy" href="${it.url}">View product &rarr;</a>
-        </div>
-        <div class="meta" style="margin-top:4px">${it.current_status || ''}</div>
-        ${spark(it.history, it.currency)}
-        <table><thead><tr><th>Date</th><th class="num">Price</th><th>Status</th></tr></thead>
-        <tbody>${histRows}</tbody></table>
-      </section>`);
-  }
-}).catch(e => {
-  document.getElementById('updated').textContent = 'Could not load items.json';
-});
-</script>
 </body>
 </html>
