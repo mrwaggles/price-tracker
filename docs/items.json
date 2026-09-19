@@ -14,8 +14,13 @@
       "current": 8.99,
       "current_status": "in stock",
       "history": [
-        {"date": "2026-09-19", "price": 8.99, "status": "in stock"}
-      ]
+        {
+          "date": "2026-09-19",
+          "price": 8.99,
+          "status": "in stock"
+        }
+      ],
+      "remove_url": "https://wa.me/16508702892?text=Remove+Wild+Huckleberry+Syrup+from+the+price+tracker"
     },
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -30,10 +35,23 @@
       "current": 39.95,
       "current_status": "in stock",
       "history": [
-        {"date": "2026-09-17", "price": 39.95, "status": "in stock"},
-        {"date": "2026-09-18", "price": 39.95, "status": "in stock"},
-        {"date": "2026-09-19", "price": 39.95, "status": "in stock"}
-      ]
+        {
+          "date": "2026-09-17",
+          "price": 39.95,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-09-18",
+          "price": 39.95,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-09-19",
+          "price": 39.95,
+          "status": "in stock"
+        }
+      ],
+      "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+from+the+price+tracker"
     }
   ]
 }
