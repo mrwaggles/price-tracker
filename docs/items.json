@@ -1,0 +1,39 @@
+{
+  "updated_at": "2026-09-19",
+  "items": [
+    {
+      "id": "rockinrudys-huckleberry-syrup-10oz",
+      "name": "Wild Huckleberry Syrup",
+      "merchant": "Rockin Rudy's",
+      "specs": "10 oz glass skinny bottle, wild huckleberry (Huckleberry People)",
+      "url": "https://rockinrudys.com/products/10-oz-huck-syrup-skinny-bottle",
+      "currency": "USD",
+      "baseline": 8.99,
+      "baseline_date": "2026-09-19",
+      "baseline_note": "+$6.00 flat shipping ($14.99 delivered)",
+      "current": 8.99,
+      "current_status": "in stock",
+      "history": [
+        {"date": "2026-09-19", "price": 8.99, "status": "in stock"}
+      ]
+    },
+    {
+      "id": "llbean-pima-percale-pillowcases-white",
+      "name": "280-Thread-Count Pima Cotton Percale Pillowcases",
+      "merchant": "L.L.Bean",
+      "specs": "Set of two, White (item 233286, sku 0BVU880000)",
+      "url": "https://www.llbean.com/llb/shop/1156?itemId=233286&attrValue_0=White&sku=0BVU880000&originalProduct=64158",
+      "currency": "USD",
+      "baseline": 39.95,
+      "baseline_date": "2026-09-17",
+      "baseline_note": "",
+      "current": 39.95,
+      "current_status": "in stock",
+      "history": [
+        {"date": "2026-09-17", "price": 39.95, "status": "in stock"},
+        {"date": "2026-09-18", "price": 39.95, "status": "in stock"},
+        {"date": "2026-09-19", "price": 39.95, "status": "in stock"}
+      ]
+    }
+  ]
+}
