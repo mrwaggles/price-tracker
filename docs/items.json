@@ -94,6 +94,27 @@
           "status": "in stock"
         }
       ]
+    },
+    {
+      "id": "tavi-base33-crew-grip-socks-olive-m",
+      "name": "Base33 Crew Grip Socks - Olive",
+      "merchant": "Tavi Active",
+      "specs": "Crew grip socks, Olive, size M (7-9), sku B01126OLV",
+      "url": "https://www.taviactive.com/products/base33-crew-grip-socks-olive?size=M",
+      "currency": "USD",
+      "baseline": 18.0,
+      "baseline_date": "2026-09-20",
+      "baseline_note": "Amazon carries base33 (asin B0BKQSXB14), price unconfirmed",
+      "current": 18.0,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Base33+Crew+Grip+Socks+-+Olive+M+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-09-20",
+          "price": 18.0,
+          "status": "in stock"
+        }
+      ]
     }
   ]
 }
