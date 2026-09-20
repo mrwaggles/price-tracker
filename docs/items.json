@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19",
+  "updated_at": "2026-09-20",
   "items": [
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -49,6 +49,48 @@
         {
           "date": "2026-09-19",
           "price": 39.95,
+          "status": "in stock"
+        }
+      ]
+    },
+    {
+      "id": "yttp-superfood-niacinamide-body-cleanser-elevated-self",
+      "name": "Superfood + Niacinamide Body Cleanser - Elevated Self",
+      "merchant": "Youth to the People",
+      "specs": "485 ml / 16.4 fl oz, Elevated Self (cedarwood, black pepper + fresh greens)",
+      "url": "https://www.youthtothepeople.com/hand-body/superfood-niacinamide-body-cleanser/YTTP-70400.html",
+      "currency": "USD",
+      "baseline": 39.0,
+      "baseline_date": "2026-09-20",
+      "baseline_note": "Sephora also $39.00 ($37.05 on auto-replenish)",
+      "current": 39.0,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Superfood+%2B+Niacinamide+Body+Cleanser+-+Elevated+Self+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-09-20",
+          "price": 39.0,
+          "status": "in stock"
+        }
+      ]
+    },
+    {
+      "id": "mielle-rosemary-mint-shampoo-12oz",
+      "name": "Rosemary Mint Strengthening Shampoo",
+      "merchant": "Mielle Organics (at Target)",
+      "specs": "12 fl oz / 355 ml, infused with biotin",
+      "url": "https://www.target.com/p/mielle-organics-rosemary-mint-strengthening-shampoo-12-fl-oz/-/A-75566112",
+      "currency": "USD",
+      "baseline": 9.99,
+      "baseline_date": "2026-09-20",
+      "baseline_note": "Walmart $9.97, Amazon $9.94, brand $9.99, Ulta $10.99",
+      "current": 9.99,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Mielle+Rosemary+Mint+Strengthening+Shampoo+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-09-20",
+          "price": 9.99,
           "status": "in stock"
         }
       ]
