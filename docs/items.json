@@ -28,6 +28,11 @@
           "date": "2026-09-19",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-09-20",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker"
@@ -48,6 +53,11 @@
       "history": [
         {
           "date": "2026-09-19",
+          "price": 39.95,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-09-20",
           "price": 39.95,
           "status": "in stock"
         }
