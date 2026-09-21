@@ -167,6 +167,27 @@
           "status": "in stock"
         }
       ]
+    },
+    {
+      "id": "atlantic-print-digital-subscription",
+      "name": "The Atlantic - Print & Digital Subscription",
+      "merchant": "The Atlantic",
+      "specs": "Print & Digital, 1 year (12 print issues + full digital access), new-subscriber price",
+      "url": "https://accounts.theatlantic.com/products/",
+      "currency": "USD",
+      "baseline": 99.99,
+      "baseline_date": "2026-09-21",
+      "baseline_note": "Subscription watch: alert on any coupon, promo, or sale dropping effective Print & Digital price below $99.99/yr. Check catalog page price + promo/coupon language; exclude academic-rate offers (user doesn't qualify). Holiday sales expected Nov-Dec.",
+      "current": 99.99,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+The+Atlantic+Print+%26+Digital+subscription+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-09-21",
+          "price": 99.99,
+          "status": "in stock"
+        }
+      ]
     }
   ]
 }
