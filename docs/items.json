@@ -125,6 +125,27 @@
           "status": "in stock"
         }
       ]
+    },
+    {
+      "id": "magiclinen-natural-linen-pillowcase-queen",
+      "name": "Natural Linen Pillowcase - Queen",
+      "merchant": "MagicLinen",
+      "specs": "100% linen pillowcase, Natural Linen color, US Queen size (single pillowcase)",
+      "url": "https://magiclinen.com/products/natural-linen-pillowcase",
+      "currency": "USD",
+      "baseline": 39.0,
+      "baseline_date": "2026-09-20",
+      "baseline_note": "Sold per single pillowcase; also on Amazon and Etsy (MagicLinen shop)",
+      "current": 39.0,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+MagicLinen+Natural+Linen+Pillowcase+-+Queen+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-09-20",
+          "price": 39.0,
+          "status": "in stock"
+        }
+      ]
     }
   ]
 }
