@@ -298,6 +298,90 @@
           "status": "in stock"
         }
       ]
+    },
+    {
+      "id": "dbrand-grip-case-pixel-10-pro-fold",
+      "name": "dbrand Grip Case - Pixel 10 Pro Fold",
+      "merchant": "dbrand",
+      "specs": "Grip Case for Pixel 10 Pro Fold, design skin",
+      "url": "https://dbrand.com/shop/grip/google-pixel-10-pro-fold-cases",
+      "currency": "USD",
+      "baseline": 59.9,
+      "baseline_date": "2026-09-23",
+      "baseline_note": "dbrand-only product (sold exclusively at dbrand.com). User target ~$40.",
+      "current": 59.9,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+dbrand+Grip+Case+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-09-23",
+          "price": 59.9,
+          "status": "in stock"
+        }
+      ]
+    },
+    {
+      "id": "casetify-impact-magnetic-case-pixel-10-pro-fold",
+      "name": "CASETiFY Impact Magnetic Case - Pixel 10 Pro Fold",
+      "merchant": "CASETiFY",
+      "specs": "Impact Magnetic Case (MagSafe compatible) for Pixel 10 Pro Fold, any design",
+      "url": "https://www.casetify.com/google/pixel-10-pro-fold-cases",
+      "currency": "USD",
+      "baseline": 60.0,
+      "baseline_date": "2026-09-23",
+      "baseline_note": "$60 uniform across designs on the collection page. User target ~$40.",
+      "current": 60.0,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+CASETiFY+Impact+Magnetic+Case+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-09-23",
+          "price": 60.0,
+          "status": "in stock"
+        }
+      ]
+    },
+    {
+      "id": "latercase-thin-case-willy-blue-pixel-10-pro-fold",
+      "name": "Latercase Thin Case Willy Blue - Pixel 10 Pro Fold",
+      "merchant": "Latercase",
+      "specs": "Thin Case for Pixel 10 Pro Fold, Willy Blue colorway",
+      "url": "https://latercase.com/products/google-pixel-10-pro-fold-thin-case",
+      "currency": "USD",
+      "baseline": 69.0,
+      "baseline_date": "2026-09-23",
+      "baseline_note": "Latercase-only product. User target ~$40.",
+      "current": 69.0,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Latercase+Thin+Case+Willy+Blue+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-09-23",
+          "price": 69.0,
+          "status": "in stock"
+        }
+      ]
+    },
+    {
+      "id": "google-pixelsnap-case-moonstone-pixel-10-pro-fold",
+      "name": "Google Pixelsnap Case Moonstone - Pixel 10 Pro Fold",
+      "merchant": "Google Store",
+      "specs": "Pixelsnap Case for Pixel 10 Pro Fold, Moonstone",
+      "url": "https://store.google.com/product/pixel_10_pro_fold_phone_case?hl=en-US",
+      "currency": "USD",
+      "baseline": 69.99,
+      "baseline_date": "2026-09-23",
+      "baseline_note": "List $69.99, OUT OF STOCK at baseline (Get notified state). RESTOCK WATCH: alert parent immediately when Moonstone is purchasable again. User target ~$40.",
+      "current": 69.99,
+      "current_status": "out of stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Google+Pixelsnap+Case+Moonstone+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-09-23",
+          "price": 69.99,
+          "status": "out of stock"
+        }
+      ]
     }
   ]
 }
