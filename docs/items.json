@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-09-25",
   "items": [
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -53,6 +53,11 @@
           "date": "2026-09-24",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker"
@@ -100,6 +105,11 @@
           "date": "2026-09-24",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
+          "price": 39.95,
+          "status": "in stock"
         }
       ]
     },
@@ -139,6 +149,11 @@
         },
         {
           "date": "2026-09-24",
+          "price": 39.0,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
           "price": 39.0,
           "status": "in stock"
         }
@@ -182,6 +197,11 @@
           "date": "2026-09-24",
           "price": 9.94,
           "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
+          "price": 9.94,
+          "status": "in stock"
         }
       ]
     },
@@ -221,6 +241,11 @@
         },
         {
           "date": "2026-09-24",
+          "price": 18.0,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
           "price": 18.0,
           "status": "in stock"
         }
@@ -264,6 +289,11 @@
           "date": "2026-09-24",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
+          "price": 39.0,
+          "status": "in stock"
         }
       ]
     },
@@ -298,6 +328,11 @@
         },
         {
           "date": "2026-09-24",
+          "price": 24.99,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
           "price": 24.99,
           "status": "in stock"
         }
@@ -336,6 +371,11 @@
           "date": "2026-09-24",
           "price": 99.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
+          "price": 99.99,
+          "status": "in stock"
         }
       ]
     },
@@ -360,6 +400,11 @@
         },
         {
           "date": "2026-09-24",
+          "price": 59.9,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
           "price": 59.9,
           "status": "in stock"
         }
@@ -388,6 +433,11 @@
           "date": "2026-09-24",
           "price": 60.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
+          "price": 60.0,
+          "status": "in stock"
         }
       ]
     },
@@ -414,6 +464,11 @@
           "date": "2026-09-24",
           "price": 69.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-09-25",
+          "price": 69.0,
+          "status": "in stock"
         }
       ]
     },
@@ -428,7 +483,7 @@
       "baseline_date": "2026-09-23",
       "baseline_note": "List $69.99, OUT OF STOCK at baseline (Get notified state). RESTOCK WATCH: alert parent immediately when Moonstone is purchasable again. User target ~$40.",
       "current": 69.99,
-      "current_status": "out of stock",
+      "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Google+Pixelsnap+Case+Moonstone+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
       "history": [
         {
@@ -440,6 +495,11 @@
           "date": "2026-09-24",
           "price": 69.99,
           "status": "out of stock"
+        },
+        {
+          "date": "2026-09-25",
+          "price": 69.99,
+          "status": "in stock"
         }
       ]
     }
