@@ -502,6 +502,27 @@
           "status": "in stock"
         }
       ]
+    },
+    {
+      "id": "navage-saltpods-90-count",
+      "name": "Navage SaltPods - 90 Count",
+      "merchant": "Navage (at Amazon)",
+      "specs": "Original Sea Salt SaltPod capsules, 90 count (39.6c/pod at baseline)",
+      "url": "https://www.amazon.com/Navage-SaltPod-Bundle-Purchased-Separately/dp/B01787L9UW",
+      "currency": "USD",
+      "baseline": 35.64,
+      "baseline_date": "2026-09-26",
+      "baseline_note": "Amazon one-time $35.64 (39.6c/pod, sold by RhinoSystems/Navage), S&S $33.86 not tracked. Sweep: Navage direct sub 35.9c/pod at 5x30pk + free ship over $49.99; Target $11.99/30pk; Walmart OOS; CVS $13.99/30pk",
+      "current": 35.64,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Navage+SaltPods+90-count+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-09-26",
+          "price": 35.64,
+          "status": "in stock"
+        }
+      ]
     }
   ]
 }
