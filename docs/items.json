@@ -1,763 +1,823 @@
 {
-  "updated_at": "2026-09-29",
-  "items": [
+ "updated_at": "2026-09-30T13:39:00-07:00",
+ "items": [
+  {
+   "id": "llbean-pima-percale-pillowcases-white",
+   "name": "280-Thread-Count Pima Cotton Percale Pillowcases - White",
+   "merchant": "L.L.Bean",
+   "specs": "Set of two, Standard, White (item 233286, sku 0BVU880000)",
+   "url": "https://www.llbean.com/llb/shop/1156?itemId=233286&attrValue_0=White&sku=0BVU880000&pla1=0&utm_medium=organic_feed&utm_source=chatgpt.com&originalProduct=64158",
+   "currency": "USD",
+   "baseline": 39.95,
+   "baseline_date": "2026-09-17",
+   "baseline_note": "",
+   "current": 39.95,
+   "current_status": "in stock",
+   "history": [
     {
-      "id": "llbean-pima-percale-pillowcases-white",
-      "name": "280-Thread-Count Pima Cotton Percale Pillowcases - White",
-      "merchant": "L.L.Bean",
-      "specs": "Set of two, Standard, White (item 233286, sku 0BVU880000)",
-      "url": "https://www.llbean.com/llb/shop/1156?itemId=233286&attrValue_0=White&sku=0BVU880000&pla1=0&utm_medium=organic_feed&utm_source=chatgpt.com&originalProduct=64158",
-      "currency": "USD",
-      "baseline": 39.95,
-      "baseline_date": "2026-09-17",
-      "baseline_note": "",
-      "current": 39.95,
-      "current_status": "in stock",
-      "history": [
-        {
-          "date": "2026-09-17",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-18",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-19",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-20",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-21",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-22",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-23",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 39.95,
-          "status": "in stock"
-        }
-      ],
-      "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker"
+     "date": "2026-09-17",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "llbean-pima-percale-pillowcases-silver-sand",
-      "name": "280-Thread-Count Pima Cotton Percale Pillowcases - Silver Sand",
-      "merchant": "L.L.Bean",
-      "specs": "Set of two, Standard, Silver Sand (item 233286, sku 0BVU870000)",
-      "url": "https://www.llbean.com/llb/shop/1156?itemId=233286&attrValue_0=Silver%20Sand&sku=0BVU870000&pla1=0&utm_medium=organic_feed&utm_source=chatgpt.com&originalProduct=64158",
-      "currency": "USD",
-      "baseline": 39.95,
-      "baseline_date": "2026-09-19",
-      "baseline_note": "",
-      "current": 39.95,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+Silver+Sand+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-19",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-20",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-21",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-22",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-23",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 39.95,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 39.95,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-18",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "yttp-superfood-niacinamide-body-cleanser-elevated-self",
-      "name": "Superfood + Niacinamide Body Cleanser - Elevated Self",
-      "merchant": "Youth to the People",
-      "specs": "485 ml / 16.4 fl oz, Elevated Self (cedarwood, black pepper + fresh greens)",
-      "url": "https://www.youthtothepeople.com/hand-body/superfood-niacinamide-body-cleanser/YTTP-70400.html",
-      "currency": "USD",
-      "baseline": 39.0,
-      "baseline_date": "2026-09-20",
-      "baseline_note": "Sephora also $39.00 ($37.05 on auto-replenish)",
-      "current": 39.0,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+Superfood+%2B+Niacinamide+Body+Cleanser+-+Elevated+Self+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-20",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-21",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-22",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-23",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 39.0,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-19",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "mielle-rosemary-mint-shampoo-12oz",
-      "name": "Rosemary Mint Strengthening Shampoo",
-      "merchant": "Mielle Organics (at Amazon)",
-      "specs": "12 fl oz / 355 ml, infused with biotin",
-      "url": "https://www.amazon.com/dp/B07N7MWX72",
-      "currency": "USD",
-      "baseline": 9.94,
-      "baseline_date": "2026-09-20",
-      "baseline_note": "Target $9.99, Walmart $9.97, brand $9.99, Ulta $10.99",
-      "current": 9.94,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+Mielle+Rosemary+Mint+Strengthening+Shampoo+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-20",
-          "price": 9.94,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-21",
-          "price": 9.94,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-22",
-          "price": 9.94,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-23",
-          "price": 9.94,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 9.94,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 9.94,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 9.94,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 9.94,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 9.94,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 9.94,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-20",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "tavi-base33-crew-grip-socks-olive-m",
-      "name": "Base33 Crew Grip Socks - Olive",
-      "merchant": "Tavi Active",
-      "specs": "Crew grip socks, Olive, size M (7-9), sku B01126OLV",
-      "url": "https://www.taviactive.com/products/base33-crew-grip-socks-olive?size=M",
-      "currency": "USD",
-      "baseline": 18.0,
-      "baseline_date": "2026-09-20",
-      "baseline_note": "Amazon carries base33 (asin B0BKQSXB14), price unconfirmed",
-      "current": 18.0,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+Base33+Crew+Grip+Socks+-+Olive+M+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-20",
-          "price": 18.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-21",
-          "price": 18.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-22",
-          "price": 18.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-23",
-          "price": 18.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 18.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 18.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 18.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 18.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 18.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 18.0,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-21",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "magiclinen-natural-linen-pillowcase-queen",
-      "name": "Natural Linen Pillowcase - Queen",
-      "merchant": "MagicLinen",
-      "specs": "100% linen pillowcase, Natural Linen color, US Queen size (single pillowcase)",
-      "url": "https://magiclinen.com/products/natural-linen-pillowcase",
-      "currency": "USD",
-      "baseline": 39.0,
-      "baseline_date": "2026-09-20",
-      "baseline_note": "Sold per single pillowcase; also on Amazon and Etsy (MagicLinen shop)",
-      "current": 39.0,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+MagicLinen+Natural+Linen+Pillowcase+-+Queen+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-20",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-21",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-22",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-23",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 39.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 39.0,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-22",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "wiz-full-color-a19-bulb-3pack",
-      "name": "WiZ Full Color A19 Smart Bulb - 3-Pack",
-      "merchant": "WiZ (at Amazon)",
-      "specs": "Full Color A19, 60W equiv, 800LM, E26, indoor, Matter compatible (ASIN B0D487DG2N)",
-      "url": "https://www.amazon.com/dp/B0D487DG2N",
-      "currency": "USD",
-      "baseline": 24.99,
-      "baseline_date": "2026-09-21",
-      "baseline_note": "Best per-unit: 3-pack or 6-pack $8.33/bulb (1-pack $9.10, 2-pack $11.63, 4-pack $9.50). Tracking 3-pack. Other sellers: WiZ brand 2-pack $21.99, Home Depot 2-pack $22.99",
-      "current": 24.99,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+WiZ+Full+Color+A19+Smart+Bulb+%283-Pack%29+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-21",
-          "price": 24.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-22",
-          "price": 24.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-23",
-          "price": 24.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 24.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 24.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 24.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 24.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 24.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 24.99,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-23",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "atlantic-print-digital-subscription",
-      "name": "The Atlantic - Print & Digital Subscription",
-      "merchant": "The Atlantic",
-      "specs": "Print & Digital, 1 year (12 print issues + full digital access), new-subscriber price",
-      "url": "https://accounts.theatlantic.com/products/",
-      "currency": "USD",
-      "baseline": 99.99,
-      "baseline_date": "2026-09-21",
-      "baseline_note": "Subscription watch: alert on any coupon, promo, or sale dropping effective Print & Digital price below $99.99/yr. Check catalog page price + promo/coupon language; exclude academic-rate offers (user doesn't qualify). Holiday sales expected Nov-Dec.",
-      "current": 99.99,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+The+Atlantic+Print+%26+Digital+subscription+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-21",
-          "price": 99.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-22",
-          "price": 99.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-23",
-          "price": 99.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 99.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 99.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 99.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 99.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 99.99,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 99.99,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-24",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "dbrand-grip-case-pixel-10-pro-fold",
-      "name": "dbrand Grip Case - Pixel 10 Pro Fold",
-      "merchant": "dbrand",
-      "specs": "Grip Case for Pixel 10 Pro Fold, design skin",
-      "url": "https://dbrand.com/shop/grip/google-pixel-10-pro-fold-cases",
-      "currency": "USD",
-      "baseline": 59.9,
-      "baseline_date": "2026-09-23",
-      "baseline_note": "dbrand-only product (sold exclusively at dbrand.com). User target ~$40.",
-      "current": 59.9,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+dbrand+Grip+Case+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-23",
-          "price": 59.9,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 59.9,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 59.9,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 59.9,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 59.9,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 59.9,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 59.9,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "casetify-impact-magnetic-case-pixel-10-pro-fold",
-      "name": "CASETiFY Impact Magnetic Case - Pixel 10 Pro Fold",
-      "merchant": "CASETiFY",
-      "specs": "Impact Magnetic Case (MagSafe compatible) for Pixel 10 Pro Fold, any design",
-      "url": "https://www.casetify.com/google/pixel-10-pro-fold-cases",
-      "currency": "USD",
-      "baseline": 60.0,
-      "baseline_date": "2026-09-23",
-      "baseline_note": "$60 uniform across designs on the collection page. User target ~$40.",
-      "current": 60.0,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+CASETiFY+Impact+Magnetic+Case+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-23",
-          "price": 60.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 60.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 60.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 60.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 60.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 60.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 60.0,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-26",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "latercase-thin-case-willy-blue-pixel-10-pro-fold",
-      "name": "Latercase Thin Case Willy Blue - Pixel 10 Pro Fold",
-      "merchant": "Latercase",
-      "specs": "Thin Case for Pixel 10 Pro Fold, Willy Blue colorway",
-      "url": "https://latercase.com/products/google-pixel-10-pro-fold-thin-case",
-      "currency": "USD",
-      "baseline": 69.0,
-      "baseline_date": "2026-09-23",
-      "baseline_note": "Latercase-only product. User target ~$40.",
-      "current": 69.0,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+Latercase+Thin+Case+Willy+Blue+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-23",
-          "price": 69.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 69.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 69.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-26",
-          "price": 69.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 69.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 69.0,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 69.0,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-27",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "google-pixelsnap-case-moonstone-pixel-10-pro-fold",
-      "name": "Google Pixelsnap Case Moonstone - Pixel 10 Pro Fold",
-      "merchant": "Google Store",
-      "specs": "Pixelsnap Case for Pixel 10 Pro Fold, Moonstone",
-      "url": "https://store.google.com/product/pixel_10_pro_fold_phone_case?hl=en-US",
-      "currency": "USD",
-      "baseline": 69.99,
-      "baseline_date": "2026-09-23",
-      "baseline_note": "List $69.99, OUT OF STOCK at baseline (Get notified state). RESTOCK WATCH: alert parent immediately when Moonstone is purchasable again. User target ~$40.",
-      "current": 69.99,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+Google+Pixelsnap+Case+Moonstone+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-23",
-          "price": 69.99,
-          "status": "out of stock"
-        },
-        {
-          "date": "2026-09-24",
-          "price": 69.99,
-          "status": "out of stock"
-        },
-        {
-          "date": "2026-09-25",
-          "price": 69.99,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-28",
+     "price": 39.95,
+     "status": "in stock"
     },
     {
-      "id": "navage-saltpods-90-count",
-      "name": "Navage SaltPods - 90 Count",
-      "merchant": "Navage (at Amazon)",
-      "specs": "Original Sea Salt SaltPod capsules, 90 count (39.6c/pod at baseline)",
-      "url": "https://www.amazon.com/Navage-SaltPod-Bundle-Purchased-Separately/dp/B01787L9UW",
-      "currency": "USD",
-      "baseline": 35.64,
-      "baseline_date": "2026-09-26",
-      "baseline_note": "Amazon one-time $35.64 (39.6c/pod, sold by RhinoSystems/Navage), S&S $33.86 not tracked. Sweep: Navage direct sub 35.9c/pod at 5x30pk + free ship over $49.99; Target $11.99/30pk; Walmart OOS; CVS $13.99/30pk",
-      "current": 35.64,
-      "current_status": "in stock",
-      "remove_url": "https://wa.me/16508702892?text=Remove+Navage+SaltPods+90-count+from+the+price+tracker",
-      "history": [
-        {
-          "date": "2026-09-26",
-          "price": 35.64,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-27",
-          "price": 35.64,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-28",
-          "price": 35.64,
-          "status": "in stock"
-        },
-        {
-          "date": "2026-09-29",
-          "price": 35.64,
-          "status": "in stock"
-        }
-      ]
+     "date": "2026-09-29",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 39.95,
+     "status": "in stock"
     }
-  ]
+   ],
+   "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker"
+  },
+  {
+   "id": "llbean-pima-percale-pillowcases-silver-sand",
+   "name": "280-Thread-Count Pima Cotton Percale Pillowcases - Silver Sand",
+   "merchant": "L.L.Bean",
+   "specs": "Set of two, Standard, Silver Sand (item 233286, sku 0BVU870000)",
+   "url": "https://www.llbean.com/llb/shop/1156?itemId=233286&attrValue_0=Silver%20Sand&sku=0BVU870000&pla1=0&utm_medium=organic_feed&utm_source=chatgpt.com&originalProduct=64158",
+   "currency": "USD",
+   "baseline": 39.95,
+   "baseline_date": "2026-09-19",
+   "baseline_note": "",
+   "current": 39.95,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+Silver+Sand+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-19",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-20",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-21",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-22",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-23",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 39.95,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 39.95,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "yttp-superfood-niacinamide-body-cleanser-elevated-self",
+   "name": "Superfood + Niacinamide Body Cleanser - Elevated Self",
+   "merchant": "Youth to the People",
+   "specs": "485 ml / 16.4 fl oz, Elevated Self (cedarwood, black pepper + fresh greens)",
+   "url": "https://www.youthtothepeople.com/hand-body/superfood-niacinamide-body-cleanser/YTTP-70400.html",
+   "currency": "USD",
+   "baseline": 39.0,
+   "baseline_date": "2026-09-20",
+   "baseline_note": "Sephora also $39.00 ($37.05 on auto-replenish)",
+   "current": 39.0,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+Superfood+%2B+Niacinamide+Body+Cleanser+-+Elevated+Self+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-20",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-21",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-22",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-23",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 39.0,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "mielle-rosemary-mint-shampoo-12oz",
+   "name": "Rosemary Mint Strengthening Shampoo",
+   "merchant": "Mielle Organics (at Amazon)",
+   "specs": "12 fl oz / 355 ml, infused with biotin",
+   "url": "https://www.amazon.com/dp/B07N7MWX72",
+   "currency": "USD",
+   "baseline": 9.94,
+   "baseline_date": "2026-09-20",
+   "baseline_note": "Target $9.99, Walmart $9.97, brand $9.99, Ulta $10.99",
+   "current": 9.94,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+Mielle+Rosemary+Mint+Strengthening+Shampoo+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-20",
+     "price": 9.94,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-21",
+     "price": 9.94,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-22",
+     "price": 9.94,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-23",
+     "price": 9.94,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 9.94,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 9.94,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 9.94,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 9.94,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 9.94,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 9.94,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 9.94,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "tavi-base33-crew-grip-socks-olive-m",
+   "name": "Base33 Crew Grip Socks - Olive",
+   "merchant": "Tavi Active",
+   "specs": "Crew grip socks, Olive, size M (7-9), sku B01126OLV",
+   "url": "https://www.taviactive.com/products/base33-crew-grip-socks-olive?size=M",
+   "currency": "USD",
+   "baseline": 18.0,
+   "baseline_date": "2026-09-20",
+   "baseline_note": "Amazon carries base33 (asin B0BKQSXB14), price unconfirmed",
+   "current": 18.0,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+Base33+Crew+Grip+Socks+-+Olive+M+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-20",
+     "price": 18.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-21",
+     "price": 18.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-22",
+     "price": 18.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-23",
+     "price": 18.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 18.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 18.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 18.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 18.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 18.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 18.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 18.0,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "magiclinen-natural-linen-pillowcase-queen",
+   "name": "Natural Linen Pillowcase - Queen",
+   "merchant": "MagicLinen",
+   "specs": "100% linen pillowcase, Natural Linen color, US Queen size (single pillowcase)",
+   "url": "https://magiclinen.com/products/natural-linen-pillowcase",
+   "currency": "USD",
+   "baseline": 39.0,
+   "baseline_date": "2026-09-20",
+   "baseline_note": "Sold per single pillowcase; also on Amazon and Etsy (MagicLinen shop)",
+   "current": 39.0,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+MagicLinen+Natural+Linen+Pillowcase+-+Queen+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-20",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-21",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-22",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-23",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 39.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 39.0,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "wiz-full-color-a19-bulb-3pack",
+   "name": "WiZ Full Color A19 Smart Bulb - 3-Pack",
+   "merchant": "WiZ (at Amazon)",
+   "specs": "Full Color A19, 60W equiv, 800LM, E26, indoor, Matter compatible (ASIN B0D487DG2N)",
+   "url": "https://www.amazon.com/dp/B0D487DG2N",
+   "currency": "USD",
+   "baseline": 24.99,
+   "baseline_date": "2026-09-21",
+   "baseline_note": "Best per-unit: 3-pack or 6-pack $8.33/bulb (1-pack $9.10, 2-pack $11.63, 4-pack $9.50). Tracking 3-pack. Other sellers: WiZ brand 2-pack $21.99, Home Depot 2-pack $22.99",
+   "current": 24.99,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+WiZ+Full+Color+A19+Smart+Bulb+%283-Pack%29+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-21",
+     "price": 24.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-22",
+     "price": 24.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-23",
+     "price": 24.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 24.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 24.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 24.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 24.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 24.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 24.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 24.99,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "atlantic-print-digital-subscription",
+   "name": "The Atlantic - Print & Digital Subscription",
+   "merchant": "The Atlantic",
+   "specs": "Print & Digital, 1 year (12 print issues + full digital access), new-subscriber price",
+   "url": "https://accounts.theatlantic.com/products/",
+   "currency": "USD",
+   "baseline": 99.99,
+   "baseline_date": "2026-09-21",
+   "baseline_note": "Subscription watch: alert on any coupon, promo, or sale dropping effective Print & Digital price below $99.99/yr. Check catalog page price + promo/coupon language; exclude academic-rate offers (user doesn't qualify). Holiday sales expected Nov-Dec.",
+   "current": 99.99,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+The+Atlantic+Print+%26+Digital+subscription+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-21",
+     "price": 99.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-22",
+     "price": 99.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-23",
+     "price": 99.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 99.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 99.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 99.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 99.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 99.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 99.99,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 99.99,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "dbrand-grip-case-pixel-10-pro-fold",
+   "name": "dbrand Grip Case - Pixel 10 Pro Fold",
+   "merchant": "dbrand",
+   "specs": "Grip Case for Pixel 10 Pro Fold, design skin",
+   "url": "https://dbrand.com/shop/grip/google-pixel-10-pro-fold-cases",
+   "currency": "USD",
+   "baseline": 59.9,
+   "baseline_date": "2026-09-23",
+   "baseline_note": "dbrand-only product (sold exclusively at dbrand.com). User target ~$40.",
+   "current": 59.9,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+dbrand+Grip+Case+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-23",
+     "price": 59.9,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 59.9,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 59.9,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 59.9,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 59.9,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 59.9,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 59.9,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 59.9,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "casetify-impact-magnetic-case-pixel-10-pro-fold",
+   "name": "CASETiFY Impact Magnetic Case - Pixel 10 Pro Fold",
+   "merchant": "CASETiFY",
+   "specs": "Impact Magnetic Case (MagSafe compatible) for Pixel 10 Pro Fold, any design",
+   "url": "https://www.casetify.com/google/pixel-10-pro-fold-cases",
+   "currency": "USD",
+   "baseline": 60.0,
+   "baseline_date": "2026-09-23",
+   "baseline_note": "$60 uniform across designs on the collection page. User target ~$40.",
+   "current": 60.0,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+CASETiFY+Impact+Magnetic+Case+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-23",
+     "price": 60.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 60.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 60.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 60.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 60.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 60.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 60.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 60.0,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "latercase-thin-case-willy-blue-pixel-10-pro-fold",
+   "name": "Latercase Thin Case Willy Blue - Pixel 10 Pro Fold",
+   "merchant": "Latercase",
+   "specs": "Thin Case for Pixel 10 Pro Fold, Willy Blue colorway",
+   "url": "https://latercase.com/products/google-pixel-10-pro-fold-thin-case",
+   "currency": "USD",
+   "baseline": 69.0,
+   "baseline_date": "2026-09-23",
+   "baseline_note": "Latercase-only product. User target ~$40.",
+   "current": 69.0,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+Latercase+Thin+Case+Willy+Blue+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-23",
+     "price": 69.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 69.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 69.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-26",
+     "price": 69.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 69.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 69.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 69.0,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 69.0,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "google-pixelsnap-case-moonstone-pixel-10-pro-fold",
+   "name": "Google Pixelsnap Case Moonstone - Pixel 10 Pro Fold",
+   "merchant": "Google Store",
+   "specs": "Pixelsnap Case for Pixel 10 Pro Fold, Moonstone",
+   "url": "https://store.google.com/product/pixel_10_pro_fold_phone_case?hl=en-US",
+   "currency": "USD",
+   "baseline": 69.99,
+   "baseline_date": "2026-09-23",
+   "baseline_note": "List $69.99, OUT OF STOCK at baseline (Get notified state). RESTOCK WATCH: alert parent immediately when Moonstone is purchasable again. User target ~$40.",
+   "current": 69.99,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+Google+Pixelsnap+Case+Moonstone+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-23",
+     "price": 69.99,
+     "status": "out of stock"
+    },
+    {
+     "date": "2026-09-24",
+     "price": 69.99,
+     "status": "out of stock"
+    },
+    {
+     "date": "2026-09-25",
+     "price": 69.99,
+     "status": "in stock"
+    }
+   ]
+  },
+  {
+   "id": "navage-saltpods-90-count",
+   "name": "Navage SaltPods - 90 Count",
+   "merchant": "Navage (at Amazon)",
+   "specs": "Original Sea Salt SaltPod capsules, 90 count (39.6c/pod at baseline)",
+   "url": "https://www.amazon.com/Navage-SaltPod-Bundle-Purchased-Separately/dp/B01787L9UW",
+   "currency": "USD",
+   "baseline": 35.64,
+   "baseline_date": "2026-09-26",
+   "baseline_note": "Amazon one-time $35.64 (39.6c/pod, sold by RhinoSystems/Navage), S&S $33.86 not tracked. Sweep: Navage direct sub 35.9c/pod at 5x30pk + free ship over $49.99; Target $11.99/30pk; Walmart OOS; CVS $13.99/30pk",
+   "current": 35.64,
+   "current_status": "in stock",
+   "remove_url": "https://wa.me/16508702892?text=Remove+Navage+SaltPods+90-count+from+the+price+tracker",
+   "history": [
+    {
+     "date": "2026-09-26",
+     "price": 35.64,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-27",
+     "price": 35.64,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-28",
+     "price": 35.64,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-29",
+     "price": 35.64,
+     "status": "in stock"
+    },
+    {
+     "date": "2026-09-30",
+     "price": 35.64,
+     "status": "in stock"
+    }
+   ]
+  }
+ ]
 }
