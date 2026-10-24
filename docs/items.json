@@ -1117,13 +1117,13 @@
     {
       "id": "wiz-full-color-a19-bulb-3pack",
       "name": "WiZ Full Color A19 Smart Bulb - 3-Pack",
-      "merchant": "WiZ (at Amazon)",
-      "specs": "Full Color A19, 60W equiv, 800LM, E26, indoor, Matter compatible (ASIN B0D487DG2N)",
-      "url": "https://www.amazon.com/dp/B0D487DG2N",
+      "merchant": "WiZ (at Home Depot)",
+      "specs": "Full Color A19, 60W equiv, 800LM, E26, indoor, Matter compatible (Home Depot model 605634 / Internet #329268484; formerly Amazon ASIN B0D487DG2N)",
+      "url": "https://www.homedepot.com/p/Philips-60-Watt-Equivalent-LED-A19-Wi-Fi-Color-2200-6500K-Bundle-3-Pack-605634/329268484",
       "currency": "USD",
       "baseline": 24.99,
       "baseline_date": "2026-09-21",
-      "baseline_note": "Best per-unit: 3-pack or 6-pack $8.33/bulb (1-pack $9.10, 2-pack $11.63, 4-pack $9.50). Tracking 3-pack. Other sellers: WiZ brand 2-pack $21.99, Home Depot 2-pack $22.99",
+      "baseline_note": "Retailer changed 2026-10-24: Amazon page bot-walled, now tracking the exact same 3-pack at Home Depot (verified same product, manufacturer model 605634). $24.99 is the item price, not delivered - shipping unverified; free store pickup may be cheaper than delivery.",
       "current": 24.99,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+WiZ+Full+Color+A19+Smart+Bulb+%283-Pack%29+from+the+price+tracker",
@@ -1217,9 +1217,15 @@
           "date": "2026-10-17",
           "price": 24.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-24",
+          "price": 24.99,
+          "status": "in stock",
+          "source": "homedepot"
         }
       ],
-      "updated_at": "2026-10-17"
+      "updated_at": "2026-10-24"
     },
     {
       "id": "atlantic-print-digital-subscription",
