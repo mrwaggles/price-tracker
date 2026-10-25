@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24",
+  "updated_at": "2026-10-25",
   "items": [
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -198,10 +198,15 @@
           "date": "2026-10-23",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-25",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker",
-      "updated_at": "2026-10-23"
+      "updated_at": "2026-10-25"
     },
     {
       "id": "llbean-pima-percale-pillowcases-silver-sand",
@@ -391,9 +396,14 @@
           "date": "2026-10-23",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-25",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-23"
+      "updated_at": "2026-10-25"
     },
     {
       "id": "yttp-superfood-niacinamide-body-cleanser-elevated-self",
@@ -583,9 +593,14 @@
           "date": "2026-10-24",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-25",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-24"
+      "updated_at": "2026-10-25"
     },
     {
       "id": "mielle-rosemary-mint-shampoo-12oz",
@@ -597,7 +612,7 @@
       "baseline": 9.94,
       "baseline_date": "2026-09-20",
       "baseline_note": "Target $9.99, Walmart $9.97, brand $9.99, Ulta $10.99",
-      "current": 9.94,
+      "current": 9.93,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Mielle+Rosemary+Mint+Strengthening+Shampoo+from+the+price+tracker",
       "history": [
@@ -725,9 +740,14 @@
           "date": "2026-10-23",
           "price": 9.94,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-25",
+          "price": 9.93,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-23",
+      "updated_at": "2026-10-25",
       "notes": "alert sent 2026-10-21 for $9.31 (submission 278f8bba37f0b24b7c72f256f09bfb0dccfff600921f43617267dcbd0db01a53)"
     },
     {
@@ -918,9 +938,14 @@
           "date": "2026-10-24",
           "price": 18.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-25",
+          "price": 18.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-24"
+      "updated_at": "2026-10-25"
     },
     {
       "id": "magiclinen-natural-linen-pillowcase-queen",
@@ -1110,9 +1135,14 @@
           "date": "2026-10-24",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-25",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-24"
+      "updated_at": "2026-10-25"
     },
     {
       "id": "wiz-full-color-a19-bulb-3pack",
@@ -1223,9 +1253,15 @@
           "price": 24.99,
           "status": "in stock",
           "source": "homedepot"
+        },
+        {
+          "date": "2026-10-25",
+          "price": 24.99,
+          "status": "in stock",
+          "source": "homedepot"
         }
       ],
-      "updated_at": "2026-10-24"
+      "updated_at": "2026-10-25"
     },
     {
       "id": "atlantic-print-digital-subscription",
@@ -1713,9 +1749,14 @@
           "date": "2026-10-24",
           "price": 69.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-25",
+          "price": 69.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-24"
+      "updated_at": "2026-10-25"
     },
     {
       "id": "google-pixelsnap-case-moonstone-pixel-10-pro-fold",
@@ -1861,9 +1902,14 @@
           "date": "2026-10-24",
           "price": 35.64,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-25",
+          "price": 35.64,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-24"
+      "updated_at": "2026-10-25"
     }
   ]
 }
