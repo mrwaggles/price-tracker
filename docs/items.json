@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-10-27",
   "items": [
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -208,10 +208,15 @@
           "date": "2026-10-26",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker",
-      "updated_at": "2026-10-26"
+      "updated_at": "2026-10-27"
     },
     {
       "id": "llbean-pima-percale-pillowcases-silver-sand",
@@ -411,9 +416,14 @@
           "date": "2026-10-26",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-26"
+      "updated_at": "2026-10-27"
     },
     {
       "id": "yttp-superfood-niacinamide-body-cleanser-elevated-self",
@@ -613,9 +623,14 @@
           "date": "2026-10-26",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-26"
+      "updated_at": "2026-10-27"
     },
     {
       "id": "mielle-rosemary-mint-shampoo-12oz",
@@ -963,9 +978,14 @@
           "date": "2026-10-26",
           "price": 18.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 18.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-26"
+      "updated_at": "2026-10-27"
     },
     {
       "id": "magiclinen-natural-linen-pillowcase-queen",
@@ -1165,9 +1185,14 @@
           "date": "2026-10-26",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-26"
+      "updated_at": "2026-10-27"
     },
     {
       "id": "wiz-full-color-a19-bulb-3pack",
@@ -1290,9 +1315,15 @@
           "price": 24.99,
           "status": "in stock",
           "source": "homedepot"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 24.99,
+          "status": "in stock",
+          "source": "homedepot"
         }
       ],
-      "updated_at": "2026-10-26"
+      "updated_at": "2026-10-27"
     },
     {
       "id": "atlantic-print-digital-subscription",
@@ -1790,9 +1821,14 @@
           "date": "2026-10-26",
           "price": 69.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 69.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-26"
+      "updated_at": "2026-10-27"
     },
     {
       "id": "google-pixelsnap-case-moonstone-pixel-10-pro-fold",
@@ -1948,9 +1984,14 @@
           "date": "2026-10-26",
           "price": 35.64,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 35.64,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-10-26"
+      "updated_at": "2026-10-27"
     }
   ]
 }
