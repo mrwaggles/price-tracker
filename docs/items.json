@@ -635,14 +635,14 @@
     {
       "id": "mielle-rosemary-mint-shampoo-12oz",
       "name": "Rosemary Mint Strengthening Shampoo",
-      "merchant": "Mielle Organics (at Amazon)",
-      "specs": "12 fl oz / 355 ml, infused with biotin",
-      "url": "https://www.amazon.com/dp/B07N7MWX72",
+      "merchant": "Mielle Organics (brand site)",
+      "specs": "12 fl oz / 355 ml, infused with biotin (UPC 854102006770; formerly Amazon ASIN B07N7MWX72)",
+      "url": "https://mielleorganics.com/products/rosemary-mint-strengthening-shampoo",
       "currency": "USD",
       "baseline": 9.94,
       "baseline_date": "2026-09-20",
-      "baseline_note": "Target $9.99, Walmart $9.97, brand $9.99, Ulta $10.99",
-      "current": 9.93,
+      "baseline_note": "Retailer changed 2026-10-27: Amazon page bot-walled, now tracking the exact same 12 oz shampoo at the Mielle brand site (verified UPC 854102006770). $9.99 is the item price, not delivered - shipping unknown below the $75 free-shipping threshold.",
+      "current": 9.99,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Mielle+Rosemary+Mint+Strengthening+Shampoo+from+the+price+tracker",
       "history": [
@@ -775,9 +775,15 @@
           "date": "2026-10-25",
           "price": 9.93,
           "status": "in stock"
+        },
+        {
+          "date": "2026-10-27",
+          "price": 9.99,
+          "status": "in stock",
+          "source": "mielleorganics"
         }
       ],
-      "updated_at": "2026-10-25",
+      "updated_at": "2026-10-27",
       "notes": "alert sent 2026-10-21 for $9.31 (submission 278f8bba37f0b24b7c72f256f09bfb0dccfff600921f43617267dcbd0db01a53); alert sent 2026-10-25 for $9.93 (submission 2b235c32b8a9d21f98740c113b7774279e181b50d8e0b5dd0dc6bbaab0c4a0ac)"
     },
     {
