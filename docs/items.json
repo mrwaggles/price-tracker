@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03",
+  "updated_at": "2026-11-04",
   "items": [
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -248,10 +248,15 @@
           "date": "2026-11-03",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker",
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-04"
     },
     {
       "id": "llbean-pima-percale-pillowcases-silver-sand",
@@ -491,9 +496,14 @@
           "date": "2026-11-03",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-04"
     },
     {
       "id": "yttp-superfood-niacinamide-body-cleanser-elevated-self",
@@ -733,9 +743,14 @@
           "date": "2026-11-03",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-04"
     },
     {
       "id": "mielle-rosemary-mint-shampoo-12oz",
@@ -928,9 +943,15 @@
           "price": 9.99,
           "status": "in stock",
           "source": "mielleorganics"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 9.99,
+          "status": "in stock",
+          "source": "mielleorganics"
         }
       ],
-      "updated_at": "2026-11-03",
+      "updated_at": "2026-11-04",
       "notes": "alert sent 2026-10-21 for $9.31 (submission 278f8bba37f0b24b7c72f256f09bfb0dccfff600921f43617267dcbd0db01a53); alert sent 2026-10-25 for $9.93 (submission 2b235c32b8a9d21f98740c113b7774279e181b50d8e0b5dd0dc6bbaab0c4a0ac)"
     },
     {
@@ -1171,9 +1192,14 @@
           "date": "2026-11-03",
           "price": 18.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 18.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-04"
     },
     {
       "id": "magiclinen-natural-linen-pillowcase-queen",
@@ -1413,9 +1439,14 @@
           "date": "2026-11-03",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-04"
     },
     {
       "id": "wiz-full-color-a19-bulb-3pack",
@@ -1586,9 +1617,15 @@
           "price": 24.99,
           "status": "in stock",
           "source": "homedepot"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 24.99,
+          "status": "in stock",
+          "source": "homedepot"
         }
       ],
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-04"
     },
     {
       "id": "atlantic-print-digital-subscription",
@@ -1753,9 +1790,14 @@
           "date": "2026-11-03",
           "price": 99.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 99.99,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-04"
     },
     {
       "id": "dbrand-grip-case-pixel-10-pro-fold",
@@ -1767,7 +1809,7 @@
       "baseline": 59.9,
       "baseline_date": "2026-09-23",
       "baseline_note": "dbrand-only product (sold exclusively at dbrand.com). User target ~$40.",
-      "current": 59.9,
+      "current": 54.9,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+dbrand+Grip+Case+%28Pixel+10+Pro+Fold%29+from+the+price+tracker",
       "history": [
@@ -1870,8 +1912,15 @@
           "date": "2026-10-12",
           "price": 59.9,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 54.9,
+          "status": "in stock"
         }
-      ]
+      ],
+      "updated_at": "2026-11-04",
+      "notes": "alert sent 2026-11-04 for $54.90 (submission c550cc6cc96e0e5d38e8147e6bbc4c87f3a9ad4c484ff6a58e8cd135472453ad)"
     },
     {
       "id": "casetify-impact-magnetic-case-pixel-10-pro-fold",
@@ -2157,9 +2206,14 @@
           "date": "2026-11-03",
           "price": 69.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 69.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-04"
     },
     {
       "id": "google-pixelsnap-case-moonstone-pixel-10-pro-fold",
@@ -2355,9 +2409,14 @@
           "date": "2026-11-03",
           "price": 35.64,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-04",
+          "price": 35.64,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-04"
     }
   ]
 }
