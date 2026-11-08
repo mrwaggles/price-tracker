@@ -2583,6 +2583,52 @@
         }
       ],
       "updated_at": "2026-11-06"
+    },
+    {
+      "id": "bugaboo-butterfly-2-stroller-greece-cheapest",
+      "name": "Bugaboo Butterfly 2 stroller (Greece) - cheapest color",
+      "merchant": "Skroutz (Greek retailers)",
+      "specs": "Bugaboo Butterfly 2 travel stroller, EU model with lay-flat seat, cheapest colorway (Black / Desert Taupe / Indigo Blue)",
+      "url": "https://www.skroutz.gr/s/63209502/bugaboo-butterfly-2-karotsi-morou-katallilo-gia-neogennito-black-desert-taupe-7-3kg-100338033.html",
+      "currency": "EUR",
+      "baseline": 479.0,
+      "baseline_date": "2026-11-07",
+      "baseline_note": "Greek retail listing price via Skroutz (Black, Desert Taupe and Indigo Blue all EUR 479.00 on 2026-11-07). EU Butterfly 2 has the lay-flat seat; US Butterfly 2 Plus adds a built-in newborn foot cover. Listing price only - delivery cost unknown without a Greek destination. Tracked via Skroutz PDP low offer across Greek shops.",
+      "current": 479.0,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+stroller+%28Greece%2C+cheapest+color%29+from+the+price+tracker",
+      "updated_at": "2026-11-07",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "price": 479.0,
+          "status": "in stock",
+          "source": "skroutz"
+        }
+      ]
+    },
+    {
+      "id": "bugaboo-butterfly-2-stroller-greece-forest-green",
+      "name": "Bugaboo Butterfly 2 stroller (Greece) - Forest Green",
+      "merchant": "Skroutz (Greek retailers)",
+      "specs": "Bugaboo Butterfly 2 Complete Black / Forest Green travel stroller, EU model with lay-flat seat (color from the ad screenshot)",
+      "url": "https://www.skroutz.gr/s/63668226/bugaboo-butterfly-2-karotsi-morou-katallilo-gia-neogennito-complete-black-forest-green-7-3kg-100338025.html",
+      "currency": "EUR",
+      "baseline": 508.3,
+      "baseline_date": "2026-11-07",
+      "baseline_note": "Greek retail listing price via Skroutz on 2026-11-07. EU Butterfly 2 has the lay-flat seat; US Butterfly 2 Plus adds a built-in newborn foot cover. Listing price only - delivery cost unknown without a Greek destination. Tracked via Skroutz PDP low offer across Greek shops.",
+      "current": 508.3,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+stroller+%28Greece%2C+Forest+Green%29+from+the+price+tracker",
+      "updated_at": "2026-11-07",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "price": 508.3,
+          "status": "in stock",
+          "source": "skroutz"
+        }
+      ]
     }
   ]
 }
