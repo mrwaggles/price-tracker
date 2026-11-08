@@ -1953,9 +1953,16 @@
           "date": "2026-11-06",
           "price": 99.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 99.99,
+          "status": "in stock",
+          "source": "accounts.theatlantic.com (browser)"
         }
       ],
-      "updated_at": "2026-11-06"
+      "updated_at": "2026-11-06",
+      "notes": "web_fetch route broke 2026-11-07 (page returned empty shell two days running); read via cloud browser from 2026-11-08. Last web_fetch read 2026-11-06 at $99.99."
     },
     {
       "id": "dbrand-grip-case-pixel-10-pro-fold",
