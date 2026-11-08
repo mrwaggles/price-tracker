@@ -2629,6 +2629,52 @@
           "source": "skroutz"
         }
       ]
+    },
+    {
+      "id": "bugaboo-butterfly-2-stroller-smallable-blue",
+      "name": "Bugaboo Butterfly 2 (Smallable, ships to Greece) - Blue",
+      "merchant": "Smallable (France)",
+      "specs": "Bugaboo Butterfly 2 stroller, EU model with lay-flat seat, Blue (Smallable also lists Pink; no Forest Green)",
+      "url": "https://www.smallable.com/de/product/kinderwagen-butterfly-2-blau-bugaboo-401027",
+      "currency": "EUR",
+      "baseline": 479.0,
+      "baseline_date": "2026-11-07",
+      "baseline_note": "Item price on Smallable on 2026-11-07. Smallable's official delivery zone list includes Greece; stroller shipping cost is calculated at checkout and is unverified (bulky item). EU Butterfly 2 has the lay-flat seat. Ties the Greek retail cheapest price before shipping.",
+      "current": 479.0,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Smallable%2C+ships+to+Greece%29+from+the+price+tracker",
+      "updated_at": "2026-11-07",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "price": 479.0,
+          "status": "in stock",
+          "source": "smallable"
+        }
+      ]
+    },
+    {
+      "id": "bugaboo-butterfly-2-stroller-babycare-black",
+      "name": "Bugaboo Butterfly 2 (Babycare.nl, ships to Greece) - Heritage Black",
+      "merchant": "Babycare.nl (Netherlands)",
+      "specs": "Bugaboo Butterfly 2 stroller, EU model with lay-flat seat, Heritage Black",
+      "url": "https://www.babycare.nl/en/bugaboo-butterfly-2-heritage-black.html",
+      "currency": "EUR",
+      "baseline": 499.0,
+      "baseline_date": "2026-11-07",
+      "baseline_note": "Item price on Babycare.nl on 2026-11-07, listed in stock. Babycare states worldwide shipping via PostNL/UPS (covers Greece); stroller shipping cost is calculated at checkout and is unverified. EU Butterfly 2 has the lay-flat seat.",
+      "current": 499.0,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Babycare.nl%2C+ships+to+Greece%29+from+the+price+tracker",
+      "updated_at": "2026-11-07",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "price": 499.0,
+          "status": "in stock",
+          "source": "babycare.nl"
+        }
+      ]
     }
   ]
 }
