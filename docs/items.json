@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07",
+  "updated_at": "2026-11-08",
   "items": [
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -268,6 +268,11 @@
           "date": "2026-11-07",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker",
@@ -529,6 +534,11 @@
         },
         {
           "date": "2026-11-07",
+          "price": 39.95,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-08",
           "price": 39.95,
           "status": "in stock"
         }
@@ -793,6 +803,11 @@
           "date": "2026-11-07",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-06"
@@ -1009,6 +1024,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 9.99,
+          "status": "in stock",
+          "source": "mielleorganics"
+        },
+        {
+          "date": "2026-11-08",
           "price": 9.99,
           "status": "in stock",
           "source": "mielleorganics"
@@ -1275,6 +1296,11 @@
           "date": "2026-11-07",
           "price": 18.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 18.0,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-06"
@@ -1537,6 +1563,11 @@
           "date": "2026-11-07",
           "price": 40.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 40.0,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-06"
@@ -1731,6 +1762,12 @@
         },
         {
           "date": "2026-11-07",
+          "price": 24.99,
+          "status": "in stock",
+          "source": "homedepot"
+        },
+        {
+          "date": "2026-11-08",
           "price": 24.99,
           "status": "in stock",
           "source": "homedepot"
@@ -2053,6 +2090,11 @@
           "date": "2026-11-07",
           "price": 54.9,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 54.9,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-06",
@@ -2362,6 +2404,11 @@
           "date": "2026-11-07",
           "price": 69.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 69.0,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-06"
@@ -2580,6 +2627,11 @@
           "date": "2026-11-07",
           "price": 35.64,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 35.64,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-06"
@@ -2601,6 +2653,12 @@
       "history": [
         {
           "date": "2026-11-07",
+          "price": 479.0,
+          "status": "in stock",
+          "source": "skroutz"
+        },
+        {
+          "date": "2026-11-08",
           "price": 479.0,
           "status": "in stock",
           "source": "skroutz"
@@ -2627,6 +2685,12 @@
           "price": 508.3,
           "status": "in stock",
           "source": "skroutz"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 508.3,
+          "status": "in stock",
+          "source": "skroutz"
         }
       ]
     },
@@ -2650,6 +2714,12 @@
           "price": 479.0,
           "status": "in stock",
           "source": "smallable"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 479.0,
+          "status": "in stock",
+          "source": "smallable"
         }
       ]
     },
@@ -2663,7 +2733,7 @@
       "baseline": 499.0,
       "baseline_date": "2026-11-07",
       "baseline_note": "Item price on Babycare.nl on 2026-11-07, listed in stock. Babycare states worldwide shipping via PostNL/UPS (covers Greece); stroller shipping cost is calculated at checkout and is unverified. EU Butterfly 2 has the lay-flat seat.",
-      "current": 499.0,
+      "current": 449.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Babycare.nl%2C+ships+to+Greece%29+from+the+price+tracker",
       "updated_at": "2026-11-07",
@@ -2673,8 +2743,15 @@
           "price": 499.0,
           "status": "in stock",
           "source": "babycare.nl"
+        },
+        {
+          "date": "2026-11-08",
+          "price": 449.0,
+          "status": "in stock",
+          "source": "babycare.nl"
         }
-      ]
+      ],
+      "notes": "alert sent 2026-11-08 for EUR 449.00 Special Price (was baseline EUR 499.00) (submission d97a6c847233dc0bf5c671fdd4d343fa24eff65acd143c3b0f7fb535821487c9)"
     }
   ]
 }
