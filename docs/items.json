@@ -273,10 +273,17 @@
           "date": "2026-11-08",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 39.95,
+          "status": "in stock",
+          "source": "llbean.com (browser)"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker",
-      "updated_at": "2026-11-06"
+      "updated_at": "2026-11-09",
+      "notes": "curl route hit L.L.Bean WAF denial 2026-11-09; read via cloud browser PDP color options (per-color prices confirmed)."
     },
     {
       "id": "llbean-pima-percale-pillowcases-silver-sand",
@@ -541,9 +548,16 @@
           "date": "2026-11-08",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 39.95,
+          "status": "in stock",
+          "source": "llbean.com (browser)"
         }
       ],
-      "updated_at": "2026-11-06"
+      "updated_at": "2026-11-09",
+      "notes": "curl route hit L.L.Bean WAF denial 2026-11-09; read via cloud browser PDP color options (per-color prices confirmed)."
     },
     {
       "id": "yttp-superfood-niacinamide-body-cleanser-elevated-self",
@@ -808,9 +822,15 @@
           "date": "2026-11-08",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 39.0,
+          "status": "in stock",
+          "source": "youthtothepeople.com"
         }
       ],
-      "updated_at": "2026-11-06"
+      "updated_at": "2026-11-09"
     },
     {
       "id": "mielle-rosemary-mint-shampoo-12oz",
@@ -1033,9 +1053,15 @@
           "price": 9.99,
           "status": "in stock",
           "source": "mielleorganics"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 9.99,
+          "status": "in stock",
+          "source": "mielleorganics.com"
         }
       ],
-      "updated_at": "2026-11-06",
+      "updated_at": "2026-11-09",
       "notes": "alert sent 2026-10-21 for $9.31 (submission 278f8bba37f0b24b7c72f256f09bfb0dccfff600921f43617267dcbd0db01a53); alert sent 2026-10-25 for $9.93 (submission 2b235c32b8a9d21f98740c113b7774279e181b50d8e0b5dd0dc6bbaab0c4a0ac)"
     },
     {
@@ -1301,9 +1327,15 @@
           "date": "2026-11-08",
           "price": 18.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 18.0,
+          "status": "in stock",
+          "source": "taviactive.com"
         }
       ],
-      "updated_at": "2026-11-06"
+      "updated_at": "2026-11-09"
     },
     {
       "id": "magiclinen-natural-linen-pillowcase-queen",
@@ -1568,9 +1600,15 @@
           "date": "2026-11-08",
           "price": 40.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 40.0,
+          "status": "in stock",
+          "source": "magiclinen.com"
         }
       ],
-      "updated_at": "2026-11-06"
+      "updated_at": "2026-11-09"
     },
     {
       "id": "wiz-full-color-a19-bulb-3pack",
@@ -1771,9 +1809,15 @@
           "price": 24.99,
           "status": "in stock",
           "source": "homedepot"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 24.99,
+          "status": "in stock",
+          "source": "homedepot.com"
         }
       ],
-      "updated_at": "2026-11-06"
+      "updated_at": "2026-11-09"
     },
     {
       "id": "atlantic-print-digital-subscription",
@@ -1959,9 +2003,15 @@
           "price": 99.99,
           "status": "in stock",
           "source": "accounts.theatlantic.com (browser)"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 99.99,
+          "status": "in stock",
+          "source": "accounts.theatlantic.com (browser)"
         }
       ],
-      "updated_at": "2026-11-06",
+      "updated_at": "2026-11-09",
       "notes": "web_fetch route broke 2026-11-07 (page returned empty shell two days running); read via cloud browser from 2026-11-08. Last web_fetch read 2026-11-06 at $99.99."
     },
     {
@@ -2102,9 +2152,15 @@
           "date": "2026-11-08",
           "price": 54.9,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 54.9,
+          "status": "in stock",
+          "source": "dbrand.com"
         }
       ],
-      "updated_at": "2026-11-06",
+      "updated_at": "2026-11-09",
       "notes": "alert sent 2026-11-04 for $54.90 (submission c550cc6cc96e0e5d38e8147e6bbc4c87f3a9ad4c484ff6a58e8cd135472453ad)"
     },
     {
@@ -2416,9 +2472,15 @@
           "date": "2026-11-08",
           "price": 69.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 69.0,
+          "status": "in stock",
+          "source": "latercase.com"
         }
       ],
-      "updated_at": "2026-11-06"
+      "updated_at": "2026-11-09"
     },
     {
       "id": "google-pixelsnap-case-moonstone-pixel-10-pro-fold",
@@ -2639,9 +2701,15 @@
           "date": "2026-11-08",
           "price": 35.64,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 35.64,
+          "status": "in stock",
+          "source": "amazon.com"
         }
       ],
-      "updated_at": "2026-11-06"
+      "updated_at": "2026-11-09"
     },
     {
       "id": "bugaboo-butterfly-2-stroller-greece-cheapest",
@@ -2656,7 +2724,7 @@
       "current": 479.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+stroller+%28Greece%2C+cheapest+color%29+from+the+price+tracker",
-      "updated_at": "2026-11-07",
+      "updated_at": "2026-11-09",
       "history": [
         {
           "date": "2026-11-07",
@@ -2669,6 +2737,12 @@
           "price": 479.0,
           "status": "in stock",
           "source": "skroutz"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 479.0,
+          "status": "in stock",
+          "source": "skroutz.gr (browser)"
         }
       ]
     },
@@ -2685,7 +2759,7 @@
       "current": 508.3,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+stroller+%28Greece%2C+Forest+Green%29+from+the+price+tracker",
-      "updated_at": "2026-11-07",
+      "updated_at": "2026-11-09",
       "history": [
         {
           "date": "2026-11-07",
@@ -2698,6 +2772,12 @@
           "price": 508.3,
           "status": "in stock",
           "source": "skroutz"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 508.3,
+          "status": "in stock",
+          "source": "skroutz.gr (browser)"
         }
       ]
     },
@@ -2714,7 +2794,7 @@
       "current": 479.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Smallable%2C+ships+to+Greece%29+from+the+price+tracker",
-      "updated_at": "2026-11-07",
+      "updated_at": "2026-11-09",
       "history": [
         {
           "date": "2026-11-07",
@@ -2727,6 +2807,12 @@
           "price": 479.0,
           "status": "in stock",
           "source": "smallable"
+        },
+        {
+          "date": "2026-11-09",
+          "price": 479.0,
+          "status": "in stock",
+          "source": "smallable.com"
         }
       ]
     },
@@ -2743,7 +2829,7 @@
       "current": 449.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Babycare.nl%2C+ships+to+Greece%29+from+the+price+tracker",
-      "updated_at": "2026-11-07",
+      "updated_at": "2026-11-09",
       "history": [
         {
           "date": "2026-11-07",
@@ -2753,6 +2839,12 @@
         },
         {
           "date": "2026-11-08",
+          "price": 449.0,
+          "status": "in stock",
+          "source": "babycare.nl"
+        },
+        {
+          "date": "2026-11-09",
           "price": 449.0,
           "status": "in stock",
           "source": "babycare.nl"
