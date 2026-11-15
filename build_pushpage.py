@@ -4,15 +4,18 @@ Daily flow: update docs/items.json, run build_site.py to re-render docs/index.ht
 Usage: python3 build_pushpage.py <file-to-push-relative-path> [more paths...]
 Writes /tmp/pushpage.html and /tmp/pushurl.txt (data: URL). Push = vault fill token into #t, click #go.
 """
-import base64, json, sys, urllib.parse
+import base64, json, sys, urllib.parse, zlib
 
 REPO = "price-tracker"
 paths = sys.argv[1:] or ["docs/items.json", "docs/index.html"]
 files = []
 for p in paths:
     with open(p, "rb") as f:
-        files.append({"path": p, "b64": base64.b64encode(f.read()).decode(),
-                      "msg": "price tracker: update " + p})
+        raw = f.read()
+    comp = zlib.compressobj(9, zlib.DEFLATED, -15)
+    blob = comp.compress(raw) + comp.flush()
+    files.append({"path": p, "z": base64.urlsafe_b64encode(blob).decode(),
+                  "msg": "price tracker: update " + p})
 
 html = """<!DOCTYPE html><html><head><meta charset="utf-8"><title>gh push</title></head>
 <body style="font-family:monospace;padding:24px">
@@ -24,6 +27,15 @@ html = """<!DOCTYPE html><html><head><meta charset="utf-8"><title>gh push</title
 const REPO = "%s";
 const FILES = %s;
 const log = m => { document.getElementById("log").textContent += m + "\\n"; };
+async function inflate(b64url) {
+  const b64 = b64url.replace(/-/g, "+").replace(/_/g, "/");
+  const bin = Uint8Array.from(atob(b64), c => c.charCodeAt(0));
+  const stream = new Blob([bin]).stream().pipeThrough(new DecompressionStream("deflate-raw"));
+  const out = new Uint8Array(await new Response(stream).arrayBuffer());
+  let s = "";
+  for (let i = 0; i < out.length; i += 0x8000) s += String.fromCharCode.apply(null, out.subarray(i, i + 0x8000));
+  return btoa(s);
+}
 async function api(tok, method, url, body) {
   const r = await fetch("https://api.github.com" + url, {
     method,
@@ -42,7 +54,7 @@ document.getElementById("go").addEventListener("click", async () => {
     log("authenticated as " + me.j.login);
     for (const f of FILES) {
       const cur = await api(tok, "GET", "/repos/mrwaggles/" + REPO + "/contents/" + f.path);
-      const body = {message: f.msg, content: f.b64};
+      const body = {message: f.msg, content: await inflate(f.z)};
       if (cur.status === 200 && cur.j && cur.j.sha) body.sha = cur.j.sha;
       const put = await api(tok, "PUT", "/repos/mrwaggles/" + REPO + "/contents/" + f.path, body);
       log((put.status === 201 || put.status === 200 ? "ok " : "FAIL " + put.status + " ") + f.path);
