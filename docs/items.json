@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16",
+  "updated_at": "2026-11-17",
   "items": [
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -321,10 +321,15 @@
           "price": 39.95,
           "status": "in stock",
           "source": "llbean.com (browser)"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker",
-      "updated_at": "2026-11-16",
+      "updated_at": "2026-11-17",
       "notes": "curl route hit L.L.Bean WAF denial 2026-11-09; read via cloud browser PDP color options (per-color prices confirmed)."
     },
     {
@@ -638,9 +643,14 @@
           "price": 39.95,
           "status": "in stock",
           "source": "llbean.com (browser)"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-16",
+      "updated_at": "2026-11-17",
       "notes": "curl route hit L.L.Bean WAF denial 2026-11-09; read via cloud browser PDP color options (per-color prices confirmed)."
     },
     {
@@ -954,9 +964,14 @@
           "price": 39.0,
           "status": "in stock",
           "source": "youthtothepeople.com"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-16"
+      "updated_at": "2026-11-17"
     },
     {
       "id": "mielle-rosemary-mint-shampoo-12oz",
@@ -1227,9 +1242,14 @@
           "price": 9.99,
           "status": "in stock",
           "source": "mielleorganics.com"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 9.99,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-16",
+      "updated_at": "2026-11-17",
       "notes": "alert sent 2026-10-21 for $9.31 (submission 278f8bba37f0b24b7c72f256f09bfb0dccfff600921f43617267dcbd0db01a53); alert sent 2026-10-25 for $9.93 (submission 2b235c32b8a9d21f98740c113b7774279e181b50d8e0b5dd0dc6bbaab0c4a0ac)"
     },
     {
@@ -1543,9 +1563,14 @@
           "price": 18.0,
           "status": "in stock",
           "source": "taviactive.com"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 18.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-16"
+      "updated_at": "2026-11-17"
     },
     {
       "id": "magiclinen-natural-linen-pillowcase-queen",
@@ -1858,9 +1883,14 @@
           "price": 39.0,
           "status": "in stock",
           "source": "magiclinen.com"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-16"
+      "updated_at": "2026-11-17"
     },
     {
       "id": "wiz-full-color-a19-bulb-3pack",
@@ -2109,9 +2139,14 @@
           "price": 24.99,
           "status": "in stock",
           "source": "homedepot.com"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 24.99,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-16"
+      "updated_at": "2026-11-17"
     },
     {
       "id": "atlantic-print-digital-subscription",
@@ -2345,9 +2380,14 @@
           "price": 99.99,
           "status": "in stock",
           "source": "accounts.theatlantic.com (browser)"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 99.99,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-16",
+      "updated_at": "2026-11-17",
       "notes": "web_fetch route broke 2026-11-07 (page returned empty shell two days running); read via cloud browser from 2026-11-08. Last web_fetch read 2026-11-06 at $99.99."
     },
     {
@@ -2536,9 +2576,14 @@
           "price": 39.9,
           "status": "in stock",
           "source": "dbrand.com (browser)"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 39.9,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-16",
+      "updated_at": "2026-11-17",
       "notes": "alerts sent: 2026-11-04 $54.90 (submission c550cc6cc96e0e5d38e8147e6bbc4c87f3a9ad4c484ff6a58e8cd135472453ad); 2026-11-11 $39.90 (submission 9cccbacf1b627a722608d9e1358957e6b2e4e326caeef3616336a74cacdf1190)"
     },
     {
@@ -2898,9 +2943,14 @@
           "price": 69.0,
           "status": "in stock",
           "source": "latercase.com"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 69.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-16"
+      "updated_at": "2026-11-17"
     },
     {
       "id": "google-pixelsnap-case-moonstone-pixel-10-pro-fold",
@@ -3169,9 +3219,14 @@
           "price": 35.64,
           "status": "in stock",
           "source": "amazon.com"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 35.64,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-16"
+      "updated_at": "2026-11-17"
     },
     {
       "id": "bugaboo-butterfly-2-stroller-greece-cheapest",
@@ -3186,7 +3241,7 @@
       "current": 445.45,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+stroller+%28Greece%2C+cheapest+color%29+from+the+price+tracker",
-      "updated_at": "2026-11-16",
+      "updated_at": "2026-11-17",
       "history": [
         {
           "date": "2026-11-07",
@@ -3247,6 +3302,11 @@
           "price": 445.45,
           "status": "in stock",
           "source": "skroutz.gr (browser)"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 445.45,
+          "status": "in stock"
         }
       ],
       "notes": "alert sent 2026-11-11 for EUR 445.45 (submission 785de102a73ec30e5d142a307599ea1f1eaaa97cbe80000c85ceff1df50c9b77)"
@@ -3264,7 +3324,7 @@
       "current": 479.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+stroller+%28Greece%2C+Forest+Green%29+from+the+price+tracker",
-      "updated_at": "2026-11-16",
+      "updated_at": "2026-11-17",
       "history": [
         {
           "date": "2026-11-07",
@@ -3325,6 +3385,11 @@
           "price": 479.0,
           "status": "in stock",
           "source": "skroutz.gr (browser)"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 479.0,
+          "status": "in stock"
         }
       ],
       "notes": "alert sent 2026-11-12 for EUR 479.00 (submission 9fa247b05c9dfa2935ea3188a5516dea236c3ef41eb5e8b47e74e82da7e5fb6e)"
@@ -3342,7 +3407,7 @@
       "current": 479.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Smallable%2C+ships+to+Greece%29+from+the+price+tracker",
-      "updated_at": "2026-11-16",
+      "updated_at": "2026-11-17",
       "history": [
         {
           "date": "2026-11-07",
@@ -3403,6 +3468,11 @@
           "price": 479.0,
           "status": "in stock",
           "source": "smallable.com"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 479.0,
+          "status": "in stock"
         }
       ]
     },
@@ -3419,7 +3489,7 @@
       "current": 389.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Babycare.nl%2C+ships+to+Greece%29+from+the+price+tracker",
-      "updated_at": "2026-11-16",
+      "updated_at": "2026-11-17",
       "history": [
         {
           "date": "2026-11-07",
@@ -3480,6 +3550,11 @@
           "price": 389.0,
           "status": "in stock",
           "source": "babycare.nl"
+        },
+        {
+          "date": "2026-11-17",
+          "price": 389.0,
+          "status": "in stock"
         }
       ],
       "notes": "alerts sent: 2026-11-08 EUR 449.00 (submission d97a6c847233dc0bf5c671fdd4d343fa24eff65acd143c3b0f7fb535821487c9); 2026-11-14 EUR 389.00 (submission 153a568483e38a22b628ac7982a7068ebe97e5d44f18ab1423a56e80401ee049)"
