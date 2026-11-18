@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17",
+  "updated_at": "2026-11-18",
   "items": [
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -326,10 +326,15 @@
           "date": "2026-11-17",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker",
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "notes": "curl route hit L.L.Bean WAF denial 2026-11-09; read via cloud browser PDP color options (per-color prices confirmed)."
     },
     {
@@ -648,9 +653,14 @@
           "date": "2026-11-17",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "notes": "curl route hit L.L.Bean WAF denial 2026-11-09; read via cloud browser PDP color options (per-color prices confirmed)."
     },
     {
@@ -969,9 +979,14 @@
           "date": "2026-11-17",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-17"
+      "updated_at": "2026-11-18"
     },
     {
       "id": "mielle-rosemary-mint-shampoo-12oz",
@@ -1247,9 +1262,14 @@
           "date": "2026-11-17",
           "price": 9.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 9.99,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "notes": "alert sent 2026-10-21 for $9.31 (submission 278f8bba37f0b24b7c72f256f09bfb0dccfff600921f43617267dcbd0db01a53); alert sent 2026-10-25 for $9.93 (submission 2b235c32b8a9d21f98740c113b7774279e181b50d8e0b5dd0dc6bbaab0c4a0ac)"
     },
     {
@@ -1568,9 +1588,14 @@
           "date": "2026-11-17",
           "price": 18.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 18.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-17"
+      "updated_at": "2026-11-18"
     },
     {
       "id": "magiclinen-natural-linen-pillowcase-queen",
@@ -1888,9 +1913,14 @@
           "date": "2026-11-17",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-17"
+      "updated_at": "2026-11-18"
     },
     {
       "id": "wiz-full-color-a19-bulb-3pack",
@@ -2144,9 +2174,14 @@
           "date": "2026-11-17",
           "price": 24.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 24.99,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-17"
+      "updated_at": "2026-11-18"
     },
     {
       "id": "atlantic-print-digital-subscription",
@@ -2385,9 +2420,14 @@
           "date": "2026-11-17",
           "price": 99.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 99.99,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "notes": "web_fetch route broke 2026-11-07 (page returned empty shell two days running); read via cloud browser from 2026-11-08. Last web_fetch read 2026-11-06 at $99.99."
     },
     {
@@ -2581,9 +2621,14 @@
           "date": "2026-11-17",
           "price": 39.9,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 39.9,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "notes": "alerts sent: 2026-11-04 $54.90 (submission c550cc6cc96e0e5d38e8147e6bbc4c87f3a9ad4c484ff6a58e8cd135472453ad); 2026-11-11 $39.90 (submission 9cccbacf1b627a722608d9e1358957e6b2e4e326caeef3616336a74cacdf1190)"
     },
     {
@@ -2948,9 +2993,14 @@
           "date": "2026-11-17",
           "price": 69.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 69.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-17"
+      "updated_at": "2026-11-18"
     },
     {
       "id": "google-pixelsnap-case-moonstone-pixel-10-pro-fold",
@@ -3224,9 +3274,14 @@
           "date": "2026-11-17",
           "price": 35.64,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 35.64,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-17"
+      "updated_at": "2026-11-18"
     },
     {
       "id": "bugaboo-butterfly-2-stroller-greece-cheapest",
@@ -3238,10 +3293,10 @@
       "baseline": 479.0,
       "baseline_date": "2026-11-07",
       "baseline_note": "Greek retail listing price via Skroutz on 2026-11-07: Black, Desert Taupe and Indigo Blue colorways each listed from EUR 479.00; this card tracks the cheapest of those three. EU Butterfly 2 has the lay-flat seat; US Butterfly 2 Plus adds a built-in newborn foot cover. Listing price only - delivery cost unknown without a Greek destination. Daily check reads the Skroutz search listings for all three colorways and records the lowest.",
-      "current": 445.45,
+      "current": 430.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+stroller+%28Greece%2C+cheapest+color%29+from+the+price+tracker",
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "history": [
         {
           "date": "2026-11-07",
@@ -3307,9 +3362,14 @@
           "date": "2026-11-17",
           "price": 445.45,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 430.0,
+          "status": "in stock"
         }
       ],
-      "notes": "alert sent 2026-11-11 for EUR 445.45 (submission 785de102a73ec30e5d142a307599ea1f1eaaa97cbe80000c85ceff1df50c9b77)"
+      "notes": "alert sent 2026-11-11 for EUR 445.45 (submission 785de102a73ec30e5d142a307599ea1f1eaaa97cbe80000c85ceff1df50c9b77); alert sent 2026-11-18 for EUR 430.00 (submission 1e6bd1f6a3b668f97f6604874938618d3d5b48a3dd51b77dbb2d942590b07791)"
     },
     {
       "id": "bugaboo-butterfly-2-stroller-greece-forest-green",
@@ -3321,10 +3381,10 @@
       "baseline": 508.3,
       "baseline_date": "2026-11-07",
       "baseline_note": "Greek retail listing price via Skroutz on 2026-11-07. EU Butterfly 2 has the lay-flat seat; US Butterfly 2 Plus adds a built-in newborn foot cover. Listing price only - delivery cost unknown without a Greek destination. Tracked via Skroutz PDP low offer across Greek shops.",
-      "current": 479.0,
+      "current": 430.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+stroller+%28Greece%2C+Forest+Green%29+from+the+price+tracker",
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "history": [
         {
           "date": "2026-11-07",
@@ -3390,9 +3450,14 @@
           "date": "2026-11-17",
           "price": 479.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
+          "price": 430.0,
+          "status": "in stock"
         }
       ],
-      "notes": "alert sent 2026-11-12 for EUR 479.00 (submission 9fa247b05c9dfa2935ea3188a5516dea236c3ef41eb5e8b47e74e82da7e5fb6e)"
+      "notes": "alert sent 2026-11-12 for EUR 479.00 (submission 9fa247b05c9dfa2935ea3188a5516dea236c3ef41eb5e8b47e74e82da7e5fb6e); alert sent 2026-11-18 for EUR 430.00 (submission 29b89168e7689e0e6ef3ab6a07a37338c52afb20a97c531ebb2305be4da1922d)"
     },
     {
       "id": "bugaboo-butterfly-2-stroller-smallable-blue",
@@ -3407,7 +3472,7 @@
       "current": 479.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Smallable%2C+ships+to+Greece%29+from+the+price+tracker",
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "history": [
         {
           "date": "2026-11-07",
@@ -3471,6 +3536,11 @@
         },
         {
           "date": "2026-11-17",
+          "price": 479.0,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
           "price": 479.0,
           "status": "in stock"
         }
@@ -3489,7 +3559,7 @@
       "current": 389.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Babycare.nl%2C+ships+to+Greece%29+from+the+price+tracker",
-      "updated_at": "2026-11-17",
+      "updated_at": "2026-11-18",
       "history": [
         {
           "date": "2026-11-07",
@@ -3553,6 +3623,11 @@
         },
         {
           "date": "2026-11-17",
+          "price": 389.0,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-18",
           "price": 389.0,
           "status": "in stock"
         }
