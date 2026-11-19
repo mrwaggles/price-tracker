@@ -3556,7 +3556,7 @@
       "baseline": 499.0,
       "baseline_date": "2026-11-07",
       "baseline_note": "Item price on Babycare.nl on 2026-11-07, listed in stock. Babycare states worldwide shipping via PostNL/UPS (covers Greece); stroller shipping cost is calculated at checkout and is unverified. EU Butterfly 2 has the lay-flat seat.",
-      "current": 389.0,
+      "current": 499.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Babycare.nl%2C+ships+to+Greece%29+from+the+price+tracker",
       "updated_at": "2026-11-18",
@@ -3628,11 +3628,35 @@
         },
         {
           "date": "2026-11-18",
-          "price": 389.0,
-          "status": "in stock"
+          "price": 499.0,
+          "status": "in stock",
+          "source": "babycare.nl (evening correction: live price; morning read was a cached page)"
         }
       ],
-      "notes": "alerts sent: 2026-11-08 EUR 449.00 (submission d97a6c847233dc0bf5c671fdd4d343fa24eff65acd143c3b0f7fb535821487c9); 2026-11-14 EUR 389.00 (submission 153a568483e38a22b628ac7982a7068ebe97e5d44f18ab1423a56e80401ee049)"
+      "notes": "alerts sent: 2026-11-08 EUR 449.00 (submission d97a6c847233dc0bf5c671fdd4d343fa24eff65acd143c3b0f7fb535821487c9); 2026-11-14 EUR 389.00 (submission 153a568483e38a22b628ac7982a7068ebe97e5d44f18ab1423a56e80401ee049) 2026-11-18 evening: Special Price EUR 389 ended; live price EUR 499.00 confirmed via fresh fetch + browser. Morning's EUR 389 reading came from a cached page; EUR 389 readings 2026-11-15..17 may also have been cache-affected (alert of 2026-11-14 was sent on the evidence then available)."
+    },
+    {
+      "id": "bugaboo-butterfly-2-stroller-babymax-black",
+      "name": "Bugaboo Butterfly 2 (Babymax.nl, ships to Greece) - Heritage Black",
+      "merchant": "Babymax.nl (Netherlands)",
+      "specs": "Bugaboo Butterfly 2 stroller, EU model with lay-flat seat, Heritage Black",
+      "url": "https://en.babymax.nl/labels-website/bugaboo-butterfly-2-black-heritage-black-heritage-black.html",
+      "currency": "EUR",
+      "baseline": 399.0,
+      "baseline_date": "2026-11-18",
+      "baseline_note": "Item price on Babymax.nl on 2026-11-18 (sale, was EUR 479.00), listed in stock, delivery 2-7 working days. Free EU shipping above EUR 150, so free delivery to Greece. Added at the user's request (his link). EU Butterfly 2 has the lay-flat seat.",
+      "current": 399.0,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Babymax.nl%2C+ships+to+Greece%29+from+the+price+tracker",
+      "updated_at": "2026-11-18",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "price": 399.0,
+          "status": "in stock",
+          "source": "babymax.nl"
+        }
+      ]
     }
   ]
 }
