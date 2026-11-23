@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22",
+  "updated_at": "2026-11-23",
   "items": [
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -351,6 +351,11 @@
           "date": "2026-11-22",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 39.95,
+          "status": "in stock"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker",
@@ -696,6 +701,11 @@
         },
         {
           "date": "2026-11-22",
+          "price": 39.95,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
           "price": 39.95,
           "status": "in stock"
         }
@@ -1044,6 +1054,11 @@
           "date": "2026-11-22",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-21"
@@ -1345,6 +1360,11 @@
         },
         {
           "date": "2026-11-22",
+          "price": 6.99,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
           "price": 6.99,
           "status": "in stock"
         }
@@ -1693,6 +1713,11 @@
           "date": "2026-11-22",
           "price": 18.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 18.0,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-21"
@@ -2038,6 +2063,11 @@
           "date": "2026-11-22",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-21"
@@ -2319,6 +2349,11 @@
           "date": "2026-11-22",
           "price": 24.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 24.99,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-21"
@@ -2583,6 +2618,11 @@
         },
         {
           "date": "2026-11-22",
+          "price": 99.99,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
           "price": 99.99,
           "status": "in stock"
         }
@@ -2916,6 +2956,11 @@
           "date": "2026-11-22",
           "price": 55.2,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 55.2,
+          "status": "in stock"
         }
       ],
       "updated_at": "2026-11-21",
@@ -3023,6 +3068,11 @@
         },
         {
           "date": "2026-11-22",
+          "price": 430.0,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
           "price": 430.0,
           "status": "in stock"
         }
@@ -3133,6 +3183,11 @@
           "date": "2026-11-22",
           "price": 430.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 430.0,
+          "status": "in stock"
         }
       ],
       "notes": "alert sent 2026-11-12 for EUR 479.00 (submission 9fa247b05c9dfa2935ea3188a5516dea236c3ef41eb5e8b47e74e82da7e5fb6e); alert sent 2026-11-18 for EUR 430.00 (submission 29b89168e7689e0e6ef3ab6a07a37338c52afb20a97c531ebb2305be4da1922d)"
@@ -3239,6 +3294,11 @@
         },
         {
           "date": "2026-11-22",
+          "price": 479.0,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
           "price": 479.0,
           "status": "in stock"
         }
@@ -3349,6 +3409,11 @@
           "date": "2026-11-22",
           "price": 389.0,
           "status": "out of stock"
+        },
+        {
+          "date": "2026-11-23",
+          "price": 389.0,
+          "status": "out of stock"
         }
       ],
       "notes": "alerts sent: 2026-11-08 EUR 449.00 (submission d97a6c847233dc0bf5c671fdd4d343fa24eff65acd143c3b0f7fb535821487c9); 2026-11-14 EUR 389.00 (submission 153a568483e38a22b628ac7982a7068ebe97e5d44f18ab1423a56e80401ee049) 2026-11-18 evening: Special Price EUR 389 ended; live price EUR 499.00 confirmed via fresh fetch + browser. Morning's EUR 389 reading came from a cached page; EUR 389 readings 2026-11-15..17 may also have been cache-affected (alert of 2026-11-14 was sent on the evidence then available).; 2026-11-20 EUR 349.30, out of stock at this price, expected shipping Nov 29 (submission 8dd578d6a7acc4a0767f85e670ed9974c759fe24e50a88c3a9b2a98215c76eb3)"
@@ -3391,6 +3456,11 @@
         },
         {
           "date": "2026-11-22",
+          "price": 399.0,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-23",
           "price": 399.0,
           "status": "in stock"
         }
