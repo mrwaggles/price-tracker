@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "items": [
     {
       "id": "llbean-pima-percale-pillowcases-white",
@@ -3674,7 +3674,30 @@
           "price": 399.0,
           "status": "in stock"
         }
-      ]
+      ],
+      "notes": "2026-11-27: Babymax delisted this standalone Heritage Black listing (page now 404, Black Friday sellout). Kept as a return watch per parent instruction; check daily for the listing coming back, treat a return as a restock (report to parent, no email). No history entries while 404."
+    },
+    {
+      "id": "bugaboo-butterfly-2-stroller-babymax-deep-indigo",
+      "name": "Bugaboo Butterfly 2 (Babymax.nl, ships to Greece) - Deep Indigo",
+      "merchant": "Babymax.nl (Netherlands)",
+      "specs": "Bugaboo Butterfly 2 stroller, EU model with lay-flat seat, Deep Indigo",
+      "url": "https://en.babymax.nl/bugaboo-butterfly-2-black-deep-indigo-deep-indigo.html",
+      "currency": "EUR",
+      "baseline": 399.0,
+      "baseline_date": "2026-11-27",
+      "baseline_note": "Added 2026-11-27 during the Black Friday sweep after Babymax delisted the standalone Heritage Black listing (404). Deep Indigo standalone at EUR 399.00 (was 479), in stock, 4-9 working days. Free EU shipping above EUR 150, so free delivery to Greece. EU Butterfly 2 has the lay-flat seat.",
+      "current": 399.0,
+      "current_status": "in stock",
+      "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Babymax.nl%2C+ships+to+Greece%29+-+Deep+Indigo+from+the+price+tracker",
+      "history": [
+        {
+          "date": "2026-11-27",
+          "price": 399.0,
+          "status": "in stock"
+        }
+      ],
+      "notes": "Added 2026-11-27 per user instruction (via parent): track Deep Indigo after the Heritage Black standalone was delisted."
     }
   ]
 }
