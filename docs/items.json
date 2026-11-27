@@ -11,7 +11,7 @@
       "baseline": 39.95,
       "baseline_date": "2026-09-17",
       "baseline_note": "",
-      "current": 39.95,
+      "current": 33.96,
       "current_status": "in stock",
       "history": [
         {
@@ -371,11 +371,16 @@
           "date": "2026-11-26",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 33.96,
+          "status": "in stock"
         }
       ],
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+White+from+the+price+tracker",
-      "updated_at": "2026-11-21",
-      "notes": "curl route hit L.L.Bean WAF denial 2026-11-09; read via cloud browser PDP color options (per-color prices confirmed)."
+      "updated_at": "2026-11-27",
+      "notes": "curl route hit L.L.Bean WAF denial 2026-11-09; read via cloud browser PDP color options (per-color prices confirmed).; alert sent 2026-11-27 for $33.96 (list $39.95, 15% code GIFT15 on PDP through 12/1; submission 47a3b08ebb4bc98da305e2d904bd57f07954bdcc99a599f93090efcfd304c1dc)"
     },
     {
       "id": "llbean-pima-percale-pillowcases-silver-sand",
@@ -387,7 +392,7 @@
       "baseline": 39.95,
       "baseline_date": "2026-09-19",
       "baseline_note": "",
-      "current": 39.95,
+      "current": 33.96,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+280-Thread-Count+Pima+Cotton+Percale+Pillowcases+-+Silver+Sand+from+the+price+tracker",
       "history": [
@@ -738,10 +743,15 @@
           "date": "2026-11-26",
           "price": 39.95,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 33.96,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-21",
-      "notes": "curl route hit L.L.Bean WAF denial 2026-11-09; read via cloud browser PDP color options (per-color prices confirmed)."
+      "updated_at": "2026-11-27",
+      "notes": "curl route hit L.L.Bean WAF denial 2026-11-09; read via cloud browser PDP color options (per-color prices confirmed).; alert sent 2026-11-27 for $33.96 (list $39.95, 15% code GIFT15 on PDP through 12/1; submission 0af7b86c6a6c0dc2142e65695ccdf99b8d0fd4a139373bb57a2513045050552d)"
     },
     {
       "id": "yttp-superfood-niacinamide-body-cleanser-elevated-self",
@@ -1104,9 +1114,14 @@
           "date": "2026-11-26",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-21"
+      "updated_at": "2026-11-27"
     },
     {
       "id": "mielle-rosemary-mint-shampoo-12oz",
@@ -1427,9 +1442,14 @@
           "date": "2026-11-26",
           "price": 6.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 6.99,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-21",
+      "updated_at": "2026-11-27",
       "notes": "alert sent 2026-10-21 for $9.31 (submission 278f8bba37f0b24b7c72f256f09bfb0dccfff600921f43617267dcbd0db01a53); alert sent 2026-10-25 for $9.93 (submission 2b235c32b8a9d21f98740c113b7774279e181b50d8e0b5dd0dc6bbaab0c4a0ac); alert sent 2026-11-19 for $6.99 (submission f84b96fd6bdb24b8c41216cf0d8659dee36c0402fd16cf0ae86bdbfe8c5dca44)"
     },
     {
@@ -1442,7 +1462,7 @@
       "baseline": 18.0,
       "baseline_date": "2026-09-20",
       "baseline_note": "Amazon carries base33 (asin B0BKQSXB14), price unconfirmed",
-      "current": 18.0,
+      "current": 12.6,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Base33+Crew+Grip+Socks+-+Olive+M+from+the+price+tracker",
       "history": [
@@ -1793,9 +1813,15 @@
           "date": "2026-11-26",
           "price": 18.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 12.6,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-21"
+      "updated_at": "2026-11-27",
+      "notes": "alert sent 2026-11-27 for $12.60 (list $18.00, 30% code ENJOY30 on PDP; submission 0ee10370d05dc255787807ec4701d9f46761f423ce4b1814bb01827c45bb06e0)"
     },
     {
       "id": "magiclinen-natural-linen-pillowcase-queen",
@@ -2158,9 +2184,14 @@
           "date": "2026-11-26",
           "price": 39.0,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 39.0,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-21"
+      "updated_at": "2026-11-27"
     },
     {
       "id": "wiz-full-color-a19-bulb-3pack",
@@ -2459,9 +2490,14 @@
           "date": "2026-11-26",
           "price": 24.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 24.99,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-21"
+      "updated_at": "2026-11-27"
     },
     {
       "id": "atlantic-print-digital-subscription",
@@ -2745,9 +2781,14 @@
           "date": "2026-11-26",
           "price": 99.99,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 99.99,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-21",
+      "updated_at": "2026-11-27",
       "notes": "web_fetch route broke 2026-11-07 (page returned empty shell two days running); read via cloud browser from 2026-11-08. Last web_fetch read 2026-11-06 at $99.99."
     },
     {
@@ -3096,9 +3137,14 @@
           "date": "2026-11-26",
           "price": 55.2,
           "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
+          "price": 55.2,
+          "status": "in stock"
         }
       ],
-      "updated_at": "2026-11-21",
+      "updated_at": "2026-11-27",
       "notes": "alert sent 2026-11-19 for $55.20 (submission fe0d3a48ff1c7b4135ef55ca3a30aa32e3204806d514e06108a62e8dc4484e99)"
     },
     {
@@ -3114,7 +3160,7 @@
       "current": 430.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+stroller+%28Greece%2C+cheapest+color%29+from+the+price+tracker",
-      "updated_at": "2026-11-21",
+      "updated_at": "2026-11-27",
       "history": [
         {
           "date": "2026-11-07",
@@ -3223,6 +3269,11 @@
         },
         {
           "date": "2026-11-26",
+          "price": 430.0,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
           "price": 430.0,
           "status": "in stock"
         }
@@ -3242,7 +3293,7 @@
       "current": 430.0,
       "current_status": "in stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+stroller+%28Greece%2C+Forest+Green%29+from+the+price+tracker",
-      "updated_at": "2026-11-21",
+      "updated_at": "2026-11-27",
       "history": [
         {
           "date": "2026-11-07",
@@ -3351,6 +3402,11 @@
         },
         {
           "date": "2026-11-26",
+          "price": 430.0,
+          "status": "in stock"
+        },
+        {
+          "date": "2026-11-27",
           "price": 430.0,
           "status": "in stock"
         }
@@ -3482,7 +3538,8 @@
           "price": 479.0,
           "status": "in stock"
         }
-      ]
+      ],
+      "notes": "2026-11-27: Smallable PDP returning server error page all day (web_fetch stub + browser error, both configs); no history entry. Reported to parent via sweep watch rules."
     },
     {
       "id": "bugaboo-butterfly-2-stroller-babycare-black",
@@ -3497,7 +3554,7 @@
       "current": 389.0,
       "current_status": "out of stock",
       "remove_url": "https://wa.me/16508702892?text=Remove+Bugaboo+Butterfly+2+%28Babycare.nl%2C+ships+to+Greece%29+from+the+price+tracker",
-      "updated_at": "2026-11-21",
+      "updated_at": "2026-11-27",
       "history": [
         {
           "date": "2026-11-07",
@@ -3607,6 +3664,11 @@
         },
         {
           "date": "2026-11-26",
+          "price": 389.0,
+          "status": "out of stock"
+        },
+        {
+          "date": "2026-11-27",
           "price": 389.0,
           "status": "out of stock"
         }
